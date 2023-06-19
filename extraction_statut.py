@@ -151,7 +151,12 @@ def detecting_negation():
     neg_detector = NegationDetector(output_label="is_negated", rules=neg_rules)
     return neg_detector
 
-
+"""
+La fonction statut_extraction extrait les informations de statut de tabagisme, 
+statut marital et statut d'alcool à partir d'un dictionnaire dico en parcourant les 
+annotations, en calculant les proportions et en choisissant les statuts appropriés. 
+Elle renvoie les statuts extraits 
+"""
 def statut_extraction(dico):
 
     ## Initialisation
@@ -247,6 +252,12 @@ def statut_extraction(dico):
 
     return statut_tabagisme, statut_marital, statut_alcool, dico_vide
 
+
+"""
+La fonction clinical_case_recovery récupère tous les fichiers texte présents 
+dans le dossier output_folder, les trie par ordre alphabétique, puis extrait 
+et retourne les textes (= cas clinique) de chaque fichier sous forme d'une liste de cas cliniques.
+"""
 def clinical_case_recovery(output_folder):
     # On récupère tous les fichiers texte dans le dossier
     txt_files = [f for f in os.listdir(output_folder) if f.endswith('.txt')]
