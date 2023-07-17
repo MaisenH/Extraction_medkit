@@ -1,0 +1,842 @@
+nom fichier,cas clinique,tabagisme,alcool,situation,tabagisme_V,alcool_V,situation_V
+filehtml-23-cas.txt,"Une femme de 50 ans d’origine africaine s’est présentée au service des urgences avec des symptômes d’atteinte neurologique de confusion, d’ataxie, de paresthésie et de céphalées. Elle n’avait aucun antécédent médical connu, puisqu’elle n’avait pas consulté de médecin depuis des années. Elle ne prenait aucun médicament ni produit de santé naturel, n’avait pas d’allergie, ne fumait pas et ne consommait pas d’alcool. Les symptômes décrits s’étaient progressivement aggravés au cours des deux dernières semaines. Elle avait aussi noté une perte de poids au cours des derniers mois. Une prise de sang révéla une pancytopénie ainsi qu’une insuffisance rénale avec une clairance de la créatinine estimée à 45 ml/min selon la formule de Cockcroft et Gault pour un poids de 48,2 kg et un taux de créatinine sérique de 98 µmol/L7. Les valeurs de laboratoire à l’admission de la patiente sont détaillées dans le tableau I. Les examens radiologiques, tels qu’une tomoden­ sitométrie axiale cérébrale ainsi que des imageries cérébrales par résonance magnétique et des tests microbiologiques ont permis aux médecins de poser un diagnostic de toxoplasmose cérébrale associée à un œdème cérébral. Par la suite, d’autres analyses ont révélé la présence du VIH et du VHC. À son admission, le taux de lymphocytes T CD4 était de 46 cellules/µl (numération normale : 700 à 1100 cellules/µl) et la charge virale était de 140 896 copies/ml.
+
+En guise de traitement de l’œdème secondaire à la toxoplasmose cérébrale, la patiente a reçu de la dexaméthasone, d’abord 4 mg en intraveineuse toutes les six heures pendant 24 heures, puis 2 mg par voie orale toutes les six heures pendant 24 heures, enfin 1 mg par voie orale toutes les six heures pendant 24 heures. Afin d’éradiquer la toxoplasmose, un traitement oral à base de pyriméthamine, d’acide folinique et de sulfadiazine a été entrepris au jour 1. Quant à la pyriméthamine, la patiente en a reçu une dose de charge de 200 mg, puis une dose quotidienne de 75 mg. Pour ce qui est de l’acide folinique, la patiente a reçu une dose de 50 mg une fois par jour jusqu’au jour 6, puis 15 mg une fois par jour. La dose de sulfadiazine était de 1 500 mg quatre fois par jour. Le tableau II résume les choix de traitement à l'infection Toxoplasma gondii.
+
+Le jour 7, l’équipe médicale a entrepris un traitement oral contre le VIH constitué de ténofovir (300 mg une fois par jour), d’emtricitabine (200 mg une fois par jour), d’atazanavir (300 mg une fois par jour) et de ritonavir (100 mg une fois par jour). Aucun traitement du VHC n’a été entrepris durant l’hospitalisation.
+
+Dès l’admission de la patiente, les taux d’enzymes hépatiques ont progressivement augmenté pour atteindre leur maximum au jour 13, à 473 U/L pour l’aspartate aminotransférase (AST) et à 193 U/L pour l’alanine aminotransférase (ALT). Le traitement par antirétroviraux (ARV) a donc été interrompu, et la sulfadiazine a été remplacée par la clindamycine (600 mg quatre fois par jour, d’abord par voie intraveineuse pendant dix jours, puis par voie orale). Les taux d’AST et d’ALT ont progressivement diminué. Au jour 22, les ARV ont été réintroduits aux mêmes doses sans qu’on observe une augmentation des taux d’enzymes hépatiques. Environ deux semaines plus tard, un traitement oral au triméthoprimesulfaméthoxazole (TMP-SMX;160mg-800mg trois fois par semaine) a été entrepris pour prévenir une infection opportuniste à Pneumocystis jiroveci. Les taux d’enzymes hépatiques ont progressivement augmenté à nouveau en cinq jours. La figure 1 présente l’évolution des résultats des épreuves de laboratoire permettant d’évaluer la fonction hépatique. Le TMP-SMX a alors été remplacé par la dapsone, 100 mg une fois par jour par voie orale. Les taux d’enzymes hépatiques sont revenus à leur niveau de base en trois jours.
+
+Tableau III. Posologie des médicaments par voie orale au retour à domicile
+Pyriméthamine 75 mg une fois par jour
+Acide folinique 15 mg une fois par jour
+Clindamycine 600 mg quatre fois par jour
+Dapsone 100 mg une fois par jour
+Ténofovir 300 mg tous les deux jours
+Emtricitabine 200 mg tous les deux jours
+Atazanavir 300 mg une fois par jour
+Ritonavir 100 mg une fois par jour
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filehtml-24-cas.txt,"Il s’agit d’une femme de 32 ans d’origine ghanéenne enceinte de 14 semaines. Elle présente des vomissements depuis le début de sa grossesse, qui se sont aggravés au cours des trois jours précédant son hospitalisation.
+
+Il s’agit de sa deuxième grossesse. Elle a déjà un enfant né à 36 semaines de grossesse avec un retard de croissance intra-utérin, sans autre anomalie congénitale. La patiente ne fume pas, ne prend pas d’alcool et ne souffre d’aucune allergie médicamenteuse. Ses antécédents médicaux montrent notamment un diabète gestationnel probable et une HG lors de sa première grossesse. La patiente avait alors été hospitalisée et avait reçu un traitement intraveineux de métoclopramide associé à de la diphénhydramine suivi d’un relais par voie orale au métoclopramide et à l’hydroxyzine. Une réaction extrapyramidale (rigidité de la mâchoire et difficulté à parler) avait nécessité l’arrêt du métoclopramide. L’hydroxyzine avait ensuite été remplacée par l’association de doxylamine et de pyridoxine (DiclectinMD).
+
+Lors de la première visite médicale à 11 semaines de sa deuxième grossesse, la patiente souffrait de nausées et de vomissements depuis une dizaine de jours. Une perfusion intraveineuse continue de solution saline à 0,9 % avec du dextrose à 5 % avait permis de la réhydrater. Elle était repartie avec une ordonnance de doxylamine et de pyridoxine (six comprimés par jour). Une semaine plus tard, la patiente s’est présentée au service d’urgence pour une récidive des nausées avec une moyenne de quatre épisodes de vomissements par jour. Bien qu’elle arrivait à s’alimenter et à s’hydrater et que les cétones urinaires étaient négatives, un diagnostic de gastrite érosive avait nécessité l’ajout de ranitidine par voie orale (150 mg deux fois par jour) et d’acide alginique (après chaque repas et au coucher).
+
+À son hospitalisation, la patiente, enceinte de 14 semaines, présente jusqu’à cinq ou six épisodes de vomissements par jour et n’est pas capable de s’alimenter ni de s’hydrater. Elle présente les symptômes suivants : une détérioration de l’état général, une hypersalivation, une hématémèse, des céphalées, des gaz intestinaux et une douleur abdominale diffuse avec épigastralgie augmentant d’intensité lors des vomissements. Sur le plan obstétrical, la patiente ne présente ni pertes sanguines, ni pertes de liquides, ni contractions utérines. Ses signes vitaux sont normaux. Depuis le début de sa grossesse, la patiente a perdu 16 kg, ce qui correspond à environ 22 % de son poids d’avant la grossesse. L’analyse urinaire montre la présence de cétones. Le tableau I présente les résultats détaillés des analyses de laboratoires et des signes vitaux.
+
+À l’admission, la patiente prend les médicaments suivants : 150 mg de ranitidine une fois par jour, une multivitamine de grossesse une fois par jour ainsi que huit comprimés par jour de doxylamine et de pyridoxine. L’urgentiste diagnostique un HG et une gastrite érosive. La prise en charge initiale de la patiente comporte l’hospitalisation, le démarrage du protocole de traitement de l’HG du CHU Sainte-Justine (figure 1) ainsi que la réalisation d’un bilan hépatique et d’une échographie abdominale. Aucun dépistage d’Helicobacter pylori n’est effectué. La patiente reçoit donc une perfusion d’hydratation et les médicaments suivants par voie intraveineuse : thiamine, diphénhydramine, métoclopramide en perfusion continue, pyridoxine, ranitidine et multivitamines. Le tableau II présente l’évolution de la médication de la patiente pendant son hospitalisation.
+  	
+Au jour deux, étant donné la détérioration de l’état de la patiente dans la nuit malgré le traitement médical initial, une thérapie à l’ondansétron par voie intraveineuse est entreprise à une dose de 4 mg toutes les huit heures. La perfusion de métoclopramide, augmentée le matin à 65 mg par jour, est finalement interrompue compte tenu de l’antécédent de réaction extrapyramidale de la patiente lors de sa grossesse antérieure. L’hydratation intraveineuse, l’administration de diphénhydramine, de pyridoxine et de multivitamines sont poursuivies. Puisque le soulagement de l’épigastralgie demeure faible, on remplace la ranitidine par 40 mg de pantoprazole par voie intraveineuse une fois par jour, avec une optimisation rapide à 40 mg par voie intraveineuse toutes les 12 heures. L’échographie abdominale ne révèle aucune anomalie.
+
+Le matin du jour trois, étant donné la persistance des nausées, des vomissements et de l’hypersalivation, l’équipe traitante augmente l’ondansétron à 8 mg par voie intraveineuse toutes les huit heures. Puisque la fréquence des vomissements est encore élevée et que la patiente présente une hypersalivation importante, l’équipe traitante entreprend l’administration de clonidine par voie orale à une dose de 0,05 mg deux fois par jour. La perfusion d’hydratation intraveineuse, l’administration de diphénhydramine, de pantoprazole, de pyridoxine et de multivitamines se poursuivent. On note une diminution de la douleur épigastrique.
+
+Au jour quatre, l’état clinique de la patiente s’améliore. Elle n’a présenté des nausées que durant la nuit et aucun vomissement. Comme la tension artérielle de la patiente demeure acceptable (91–106/53–59 mm Hg), on augmente la dose de clonidine à la dose cible de 0,1 mg deux fois par jour. Après 24 heures sans vomissement, on entreprend l’alimentation liquide. L’épigastralgie évolue favorablement. La patiente continue à recevoir l’ondansétron, l’hydratation intraveineuse, le pantoprazole, la diphénhydramine, la pyridoxine et les multivitamines.
+
+Au jour cinq, la patiente entreprend un régime solide hypolipidique, qui est bien toléré. Les nausées, les vomissements, l’hypersalivation et le pyrosis ont disparu. Toujours sous clonidine, la patiente commence un traitement relais par voie orale à l’ondansétron. La ranitidine par voie orale (150 mg deux fois par jour) remplace le pantoprazole. On cesse l’hydratation intraveineuse, l’administration de pyridoxine et de multivitamines. L’hydroxyzine (25 mg par voie orale quatre fois par jour) remplace la diphénhydramine par voie intraveineuse.
+
+Au jour six, la patiente obtient son congé de l’hôpital, puisqu’elle tolère l’alimentation solide. À la sortie de l’hôpital, elle se voit prescrire les médicaments suivants, par voie orale : oméprazole, 20 mg deux fois par jour; ondansétron, 8 mg trois fois par jour; clonidine, 0,1 mg deux fois par jour; hydroxyzine, 25 mg quatre fois par jour au besoin.
+
+Les pharmaciennes de l’hôpital ont assuré un suivi téléphonique de la patiente toutes les deux à trois semaines, afin de réévaluer le traitement. Neuf jours après son congé, la patiente se portait bien et prenait toujours l’ondansétron (8 mg trois fois par jour), la clonidine (0,1 mg deux fois par jour), l’oméprazole (20 mg une fois par jour) et l’hydroxyzine (25 mg au coucher). Vingt-trois jours après son congé, on réduisait la dose d’ondansétron à une fois par jour et on cessait l’oméprazole. Lors de ce suivi, la réduction de la dose de clonidine a été discutée. Deux semaines plus tard, la patiente avait effectivement réduit sa dose à 0,1 mg une fois par jour, et elle prenait toujours l’ondansétron (8 mg une fois par jour). La patiente a finalement poursuivi et bien toléré la prise de clonidine (0,1 mg une fois par jour), d’ondansétron (8 mg une fois par jour) et d’hydroxyzine (25 mg une fois par jour) pendant toute sa grossesse jusqu’à l’accouchement à 38 semaines. Elle a donné naissance à une petite fille de 2 950 g, née à terme et en bonne santé.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filehtml-29-cas.txt,"Le cas présenté concerne un garçon de 14 ans, pesant 64 kg et mesurant 1,72 mètre (surface corporelle de 1,75 m2), sans antécédents médicaux. À la suite du diagnostic d’ostéosarcome du fémur distal droit avec métastases pulmonaires, l’application du protocole du Children Oncology Group AOST0331 a commencé3. Le patient a reçu des cycles de MAP pendant les dix premières semaines (doxorubicine 37,5 mg/m2/dose en association avec le cisplatin à raison de 60 mg/m2/dose pendant deux jours, les semaines 1 et 6, et avec le méthotrexate à raison de 12 g/m2/dose, les semaines 4, 5, 9 et 10), suivis de MAPIE (la doxorubicine à raison de 37,5 mg/m2/dose en association avec le cisplatin à raison de 60 mg/m2/dose pendant deux jours, les semaines 12 et 28, le méthotrexate à raison de 12 g/m2/dose, les semaines 15, 19, 23, 27, 31, 35, 39, 40, l’ifosfamide à raison de 2,8 g/m2/dose en association avec l’étoposide à raison de 100 mg/m2/dose pendant cinq jours, les semaines 16, 24 et 32 et la doxorubicine à raison de 37,5 mg/m2/dose pendant deux jours en association avec l’ifosfamide à raison de 3 g/m2/dose pendant trois jours, les semaines 20 et 36). Au début du traitement, le patient ne présentait aucune allergie connue à des médicaments. Quant aux autres problèmes de santé survenus durant l’hospitalisation, le seul élément rapporté est une dermatite de contact au membre supérieur gauche, secondaire à la colle du pansement de sa voie centrale intraveineuse. L’apparition du rash a été constatée le lendemain de l’installation de sa voie centrale, soit avant l’administration de la première dose de méthotrexate. Le patient a d’abord été vu en externe par la stomothérapeute, et une crème de nystatin lui a alors été prescrite. Au jour trois, il présente une augmentation du rash et de l’érythème. La crème de nystatin a été remplacée par une crème de diproprionate de bétaméthasone à 0,05 %, en application topique deux fois par jour pendant dix jours. La dermatite a alors disparu.
+
+Lors de la première administration de méthotrexate à haute dose (jour 0), une première réaction allergique a été observée. La chronologie des événements entourant la survenue de la réaction allergique pour les différentes doses de méthotrexate est détaillée dans le tableau I.
+
+À la tournée médicale du lendemain, l’équipe traitante a constaté la disparition complète des papules et de l’érythème. Après cette première réaction, vu le contexte du patient, la rapidité du soulagement et de la disparition du rash, l’équipe médicale a décidé de lui administrer la dose de méthotrexate prévue la semaine suivante. Lors de la deuxième dose (jour 7), le patient a reçu la prémédication prévue avant l’administration du méthotrexate. À la suite de l’apparition d’une nouvelle réaction allergique, la perfusion de méthotrexate a été interrompue prématurément. À ce moment-là, le patient devait recevoir dix autres doses de méthotrexate pour compléter le traitement. Il fallait donc décider de la conduite à tenir pour la suite du traitement. On a fait appel à la clinique d’allergie pour consultation du dossier. Vu l’absence d’autre option thérapeutique et l’importance vitale de poursuivre le traitement du patient, la décision de procéder à l’élaboration d’une stratégie de désensibilisation au méthotrexate s’est imposée.
+
+Après une revue des données disponibles dans la littérature médicale, un protocole de désensibilisation a été élaboré. Les détails du protocole sont présentés dans le tableau II. L’objectif du protocole de désensibilisation visait à permettre de continuer à administrer la dose totale de méthotrexate prévue au protocole de traitement, soit 12 g/m2 (20 g pour ce patient, ce qui est la dose maximale), avec une durée de perfusion prolongée.
+
+La première désensibilisation a eu lieu lors de la troisième dose (jour  36), administrée aux soins intensifs. Aucune prémédication n’avait été administrée. Les sacs no 1 et 2 ont été administrés sans complication. Au cours de l’administration du sac no 3, une réaction urticarienne est survenue. L’allergologue a alors recommandé d’administrer d’emblée une prémédication lors du traitement de désensibilisation suivant, soit de la diphenhydramine dosée à 50 mg IV et de la méthylprednisolone dosée à 125 mg IV, à administrer avant le sac no 3. Au jour 42, une deuxième désensibilisation a eu lieu pour l’administration de la quatrième dose de méthotrexate. L’administration de cette dose ainsi que de toutes les doses subséquentes a eu lieu à l’unité d’hémato-oncologie et non aux soins intensifs. Lors de cette désensibilisation, la prémédication a été administrée selon la procédure. Les concentrations et les débits d’administration des sacs de méthotrexate n’ont subi aucune modification, et aucune réaction n’a été détectée. À la troisième désensibilisation (cinquième dose de méthotrexate), la même méthode que pour la désensibilisation précédente a été conservée. Un rash maculo-papulaire s’est à nouveau déclaré au visage et aux bras, sans angioedème. Deux doses de diphenhydramine intraveineuse, une première dose de 20 mg, puis une deuxième dose de 50 mg, trois heures plus tard, ont été administrées, totalisant 70 mg (1,1 mg/kg/dose). Le traitement a malgré tout été poursuivi. Pour les traitements subséquents, on a décidé de devancer la prémédication de diphenhydramine et de méthylprednisolone en la plaçant avant l’administration du premier sac et d’administrer une deuxième prémédication avant l’administration du sac no 3. La désensibilisation subséquente a été bien tolérée, et aucune réaction n’a été observée chez le patient. Il en a été de même pour toutes les autres désensibilisations au méthotrexate subies par ce patient, qui a donc été en mesure de terminer le protocole de chimiothérapie prévu.
+
+Tableau I. Chronologie des événements
+
+PREMIÈRE DOSE DE MÉTHOTREXATE (JOUR 0)
+
+11 H 50
+
+Début de la perfusion de méthotrexate 20 g (12 g/m2, dose maximale) IV en perfusion de 4 heures
+
+13 H 10
+
+Éruption cutanée papulaire pancorporelle; prurit important.
+Signes vitaux normaux, aucun signe ou symptôme de détresse respiratoire
+
+Hydrocortisone 300 mg IV immédiatement; Traitement
+
+Hydroxyzine 25 mg par voie orale toutes les 6 heures au besoin
+
+14 H 10
+
+Patient dort confortablement
+
+16 H
+
+Amélioration notable de l’éruption, prurit soulagé.
+Fin de la perfusion de méthotrexate
+
+20 H
+
+Disparition complète de l’éruption
+
+VALEURS DE LABORATOIRE
+
+Élimination du méthotrexate :
+T24 h = 3,23 µmol/L
+T48 h = 0,20 µmol/L
+T72 h = 0,05 µmol/L
+
+Créatinine
+(valeurs normales = 38-94 µmol/L) :
+Jour 0 = 60 µmol/L
+Jour 1 = 91 µmol/L
+Jour 2 = 69 µmol/L
+Jour 3 = 64 µmol/L
+
+DEUXIÈME DOSE DE MÉTHOTREXATE (JOUR 7)
+
+12 H
+
+Début de la perfusion de méthotrexate à 20 g (12 g/m ) IV en perfusion de 4 heures
+
+Prémédication 30 minutes avant le début de la perfusion de méthotrexate :
+• Diphenhydramine 5 mg IV
+• Dexaméthasone 18 mg IV
+• Ranitidine 50 mg IV
+
+Médicaments au chevet :
+• Diphenhydramine 50 mg IV
+• Hydrocortisone 250 mg IV
+• Épinéphrine 0,5 ml SC
+
+13 H 20
+
+Rash maculopapulaire important
+
+Arrêt de la perfusion de méthotrexate (dose reçue : 6,7 g)
+
+VALEURS DE LABORATOIRE
+
+Élimination du méthotrexate :
+T24 h (jour 8) = 0,51 µmol/L
+T48 h (jour 9) = 0,02 µmol/L
+
+Créatinine (valeurs normales = 38-94 µmol/L) :
+Jour 7 = 65 µmol/L
+Jour 8 = 92 µmol/L
+Jour 9 = 68 µmol/L
+
+TROISIÈME DOSE DE MÉTHOTREXATE (JOUR 36) – PREMIÈRE DÉSENSIBILISATION
+
+9H5
+
+Début de l’administration du sac no 1 aux soins intensifs
+
+Médicaments au chevet :
+Diphenhydramine 50 mg IV;
+Ranitidine 50 mg IV;
+Épinéphrine 0,3 mg IM;
+Méthylprednisolone 125 mg IV;
+Salbutamol 1000 mcg en inhalation;
+Épinéphrine 5 mg en nébulisation
+
+11 H 35
+
+Début de l’administration du sac no 2 aux soins intensifs
+
+13 H 5
+
+Début de l’administration du sac no 3 aux soins intensifs
+
+14 H 50
+
+Apparition d’un prurit léger ainsi que d’une rougeur au pourtour du port-a-cath et au bras gauche; pas d’angioedème
+
+Diphenhydramine 50 mg IV immédiatement
+
+17 H 5
+
+Fin de la perfusion du 3e sac
+
+17 H 30
+
+Apparition de lésions urticariennes au visage
+
+19 H 50
+
+Augmentation du rash au thorax et aux hanches
+
+VALEURS DE LABORATOIRE
+
+Élimination du méthotrexate :
+T24 h (jr 37) = 7,53 µmol/L
+T48 h (jr 38) = 0,15 µmol/L
+T72 h (jr 39) = 0,06 µmol/L
+
+Créatinine (valeurs normales :
+38-94 µmol/L) :
+Jr 36 = 61 µmol/L
+Jr 37 = 93 µmol/L
+Jr 38 :76 µmol/L
+Jr 39 :73 µmol/L
+
+IV : intraveineux; Jr : jour; SC : sous-cutané; T24 h : au temps 24 heures; T48 h : au temps 48 heures; T72 h : au temps 72 heures
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-101-cas.txt,"Un homme âgé de 34 ans était vu en consultation pour une lésion verruqueuse de la partie latéro-postérieure supérieure du pénis évoluant depuis plusieurs mois. Nous notons dans l’enfance une posthectomie pour phimosis et le développement, quatre ans auparavant, de lésions condylomateuses du fourreau traitées par cryothérapie et podophylline. Il ne recevait aucun traitement associé. Sa partenaire n’avait pas de lésion ano-génitale connue. A l’examen clinique nous retrouvions une lésion tumorale volumineuse, indolore, exophytique, bourgeonnante, irrégulière du pénis latéro-postérieure supérieure (Figure 1). L’état général était conservé et les aires lymphonodales inguinales étaient libres. L’analyse histologique d’un prélèvement biopsique décrivait une lésion condylomateuse. La taille clinique de la tumeur orientait vers une tumeur de BuschkeLöwenstein.
+
+Les examens biologiques standards était normaux, en particulier, on notait l’absence de lymphopénie. La sérologie des virus de l’immunodéficience humaine (VIH 1 et 2) était négative. La sérologie de la syphilis était négative. Une radiographie thoracique était normale. Une échographie abdomino-pelvienne et des régions inguinales ne mettait pas en évidence d’adénopathies.
+
+L’examen histologique de la pièce opératoire (6cm x 4cm x 1cm) montrait, en microscopie optique après coloration par HES une prolifération épithéliale papillomateuse, végétante, hyperkératosique ortho et parakératosique. Le corps muqueux était épaissi (30 à 40 couches de cellules). Dans sa partie moyenne et superficielle on observait des koïlocytes. En profondeur, ces proliférations épithéliales s’invaginaient largement dans le derme sous-jacent (Figure 2). Un foyer de micro-invasion dans le derme papillaire était mis en évidence, représenté par un massif épithélial bien différencié à limites irrégulières, sans membrane basale, cerné par un infiltrat inflammatoire dense (Figure 3).
+
+Au sein de la prolifération, l’hybridation moléculaire (Southern blot) mettait en évidence la présence de l’ADN du PVH 11. L’étude morphométrique montrait une diploïdie. Le marquage par anticorps anti-p53 mutée était faiblement positif au niveau des cellules de l’assise basale.
+
+Le traitement a donc consisté en une exérèse chirurgicale large de la lésion. Une récidive à 3 mois a été traitée par un évidement laser CO2. Le patient a été perdu de vue.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-103-1-cas.txt,"Cet homme de 43 ans, fumeur, sans antécédent particulier, nous avait été adressé par son médecin pour des douleurs lombaires gauches évoluant depuis six mois. L’état général était conservé et l’examen clinique retrouvait uniquement une douleur à l’ébranlement de la fosse lombaire gauche. Une échographie abdominopelvienne réalisée deux mois auparavant n’avait rien montré de particulier en dehors d’une splénomégalie modérée. La tomodensitométrie (TDM) abdominale mettait en évidence une masse rétropéritonéale gauche, ovalaire, de 4 cm de grand axe refoulant le rein gauche (Figure 1) de densité égale à celle des muscles paravertébraux. Une biopsie sous TDM était alors réalisée. L’analyse histologique révéla qu’il s’agissait d’un schwannome de type B d’Antoni, bénin. Une exérèse de la masse était décidée en raison des douleurs chroniques devenant difficilement tolérables.
+
+Le geste chirurgical réalisé par lombotomie gauche permettait l’éxérèse complète de la masse. L’analyse anatomopathologique de la pièce opératoire confirmait le diagnostic de schwannome bénin en retrouvant une tumeur encapsulée, hémorragique et nécrotique en son centre constituée par une prolifération de cellules fusiformes développées dans une trame fibrillaire dont le point de départ se fait à partir d’un filet nerveux. Cette description est typique d’un schwannome de type B.
+
+Une surveillance par une TDM annuelle était alors décidée. Avec un recul post opératoire de huit ans, le patient ne présente aucune récidive de ce schwannome rétropéritonéal.
+",FUMEUR,UNKNOWN,UNKNOWN,OUI,,
+filepdf-109-cas.txt,"M.H, homme de 24 ans, était admis en octobre 2000 aux urgences pour hématurie totale. Dans ses antécédents, on ne retrouvait pas de notion de bilharziose ni de tuberculose. Il n’y avait pas d’habitudes alcoolo-tabagiques.
+
+Le début de la maladie remontait à une semaine par des coliques néphrétiques droites apparues de façon brutale accompagnées de fièvre avec hématurie totale sans pollakiurie ni dysurie.
+
+A l’admission l’examen trouvait un patient en bon état général, fébrile à 39°C et en bon état hémodynamique (TA à 120/70mmHg).
+
+L’examen physique révélait une légère sensibilité de la fosse lombaire droite. Les urines étaient hématuriques. Sur le plan biologique, l’examen cytobactériologique des urines était stérile. La cytologie urinaire ne trouvait pas de cellules suspectes.
+
+L’échographie rénale objectivait une lésion rénale hypoéchogène arrondie du pôle inférieur du rein droit. Sur les clichés d’urographie intraveineuse, on objectivait une amputation du groupe caliciel inférieur (Figure 1). La tomodensitométrie révélait une zone hypodense (Figure 2), en rapport avec une lésion tissulaire corticale polaire inférieure de 3 cm environ exerçant un effet de masse sur les cavités excrétrices. Cette lésion ne se rehaussait pas aux temps tardifs et déformait le contour du rein (Figure 3). Les examens d’imagerie et l’hématurie faisaient suspecter une tumeur de la voie excrétrice, mais la cytologie urinaire à la recherche de cellules néoplasiques s’est révélée négative. La reprise de l’interrogatoire, retrouvant la notion de début brutal de fièvre faisait penser à une nécrose papillaire mais surtout à une néphrite bactérienne focale. Le patient était alors mis sous antibiothérapie associant acide clavulanique et amoxicilline pendant 4 semaines et un aminoside pendant une semaine. L’apyrexie était obtenue en 5 jours avec régression des signes cliniques. Le contrôle tomodensitométrique, réalisé deux mois après, objectivait une disparition complète des lésions (Figure 4).
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-160-cas.txt,"Mlle H.K âgée de 18 ans, sans antécédents pathologiques particuliers, a consulté pour une masse abdominale avec lombo-sciatalgie . Le début de la symptomatologie remontait à 1 an par une pesanteur avec la perception d’une masse de l’hypochondre droit augmentant progressivement de taille associée à des lombosciatalgies droites. A l’admission, la patiente était en bon état général, apyrétique avec une tension artérielle à 150/90 mmHg. L’examen abdominal a trouvé une masse dure bien limitée, s’étendant de l’hypochondre droit jusqu’à la fosse iliaque droite, sensible à la palpation, mobile par rapport au plan superficiel et fixe au plan profond. La colonne vertébrale présentait une scoliose à convexité droite avec une masse douloureuse latéro-vértébrale droite à projection lombaire sans signes neurologiques associés. L’examen urogénitale n’a pas trouvé de troubles urinaires ou d’hématurie associés.
+
+L’abdomen sans préparation a objectivé une scoliose à convexité droite (Figure 1). La tomodensitométrie (TDM) a mis en évidence une masse rétropéritonéale droite mesurant 22 cm de grand axe refoulant à l’extérieur le rein droit dépassant la ligne médiane en engainant l’aorte, la veine cave inférieure et venant au contact du rein gauche. Cette masse hypodense s’est rehaussée de façon hétérogène par le produit de contraste essentiellement au niveau des septas avec de larges plages de nécroses (Figure 2). Celle-ci refoulait les organes adjacents sans stigmate d’envahissement direct. L’imagerie par résonance magnétique (IRM) a retrouvé une masse abdomino-pelvienne latéro-vertébrale droite, rétro-péritonéale avec extension à gauche de la ligne médiane de caractère hétérogène. Cette masse présentait un hyposignal en mode T1 et un hypersignal en mode T 2. Elle présentait une extension intra-canalaire épidurale latérale droite à travers le trou de conjugaison droit de L2-L3 (Figures 3a, 3b).
+
+L’intervention à été réalisée par voie bi-sous-costale transpéritonéale. On a découvert une masse ferme encapsulée, blanc nacrée de 25 cm de grand axe refoulant le rein droit en arrière et la veine cave inférieure et l’aorte en dedans et en avant. Cette masse était adhérente au plan profond (muscle psoas) avec envahissement des trous de conjugaisons L2-L3 et L3-L4. Une libération complète de la tumeur de la veine cave inférieure, de l’aorte puis du muscle psoas jusqu’à la colonne vertébrale a été réalisée.
+
+L’examen anatomopathologique de la pièce opératoire a porté sur une masse de 2390 g, mesurant 25x15x12 cm, encapsulée à la coupe blanc-nacrée, d’aspect myxoïde (Figure 4).
+
+Histologiquement, il existait des cellules ganglionnaires matures regroupées dans un stroma schwannien sans signes de malignité évoquant le ganglioneurome bénin (Figures 5 et 6).
+
+Les suites opératoires furent simples, sans récidive locale après un recul d’une année.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-163-cas.txt,"Madame D., née en 1933, a eu des crises de colique néphrétique droite en 1959. Les douleurs ont été suivies de l'élimination d'un calcul dont l'analyse a conclu à de l'oxalate de calcium.
+
+De 1964 à 1966, la patiente a eu plusieurs coliques néphrétiques droites, avec élimination de 2 calculs de cystine et d’un calcul d’oxalate de calcium.
+
+De 1970 à 1973, sont survenues plusieurs crises de colique néphrétique gauche.
+
+L'urographie intra-veineuse montrait un retard sécrétoire et une dilatation des voies urinaires susjacentes. Une pyélotomie gauche a alors été réalisée. Il s'agissait d'un calcul de 9 mm de diamètre, lisse, jaune cireux, dont l'analyse a conclu à de la cystine. L'examen microscopique des urines mettait en évidence de nombreux cristaux de cystine, hexagonaux, transparents. La réaction de Brand sur les urines était positive. La chromatographie-électrophorèse des urines, à l'époque réalisée en cas de suspicion de lithiase cystinique, montrait une tache de cystine et des taches plus importantes de lysine et d'ornithine. La cystinurie était supérieure à 980 mg/24h.
+
+Madame D. a alors reçu un traitement par D-pénicillamine à doses croissantes (de 1 à 4 comprimés à 250 mg par jour). Elle a ensuite été perdue de vue de 1973 à 1976. Il n’y a pas eu d’incident entre 1976 et 1987.
+
+A partir de 1987, malgré une alcalinisation urinaire intermittente, la patiente a dû avoir de nombreux traitements pour récidives de cette lithiase:
+
+-1987 : Lithotripsie sur calcul caliciel inférieur gauche de 8 mm.
+
+-1988 : Lithotripsie sur un calcul pyélocaliciel inférieur gauche de 22mm.
+
+-1988 : Néphrolithotomie percutanée pour un calcul caliciel gauche de 8mm.
+
+-1989 à 1999 : 10 séances de lithotripsie pour des calculs caliciels inférieurs gauches récidivants variant de 3 à 23 mm.
+
+Malgré ces divers traitements, est réapparu un calcul du calice inférieur gauche d’environ 15 mm, avec une atrophie modérée du parenchyme rénal en regard (Figure 1). L’urographie intra-veineuse montrait que la tige calicielle correspondante était fine (Figure 2). En raison des récidives multiples de ce calcul, une néphrectomie partielle polaire inférieure gauche a été réalisée en 2000. Les suites opératoires ont été simples. Madame D. a ensuite été suivie régulièrement. Avec un recul de 3 ans, il n'y a eu aucun signe clinique ni radiologique de récidive lithiasique gauche. Cependant, elle a éliminé à deux reprises des calculs de cystine après des douleurs latéralisées à droite.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-194-cas.txt,"Nous rapportons l’observation d’une patiente de 55 ans, 2ème pare, 3ème geste, qui présentait comme antécédent : une œsophagite traitée médicalement et un asthme corticodépendant depuis 2 ans.
+
+En septembre 2002, un cancer de l’ovaire bilatéral avec ascite a été découvert devant des douleurs abdominales. Il a été réalisé une hystérectomie totale et une omentectomie avec des suites immédiates simples. L’examen anatomo-pathologique a conclu : adénocarcinome séreux peu différencié de grade III, avec ganglions envahis et ascite tumorale. L’échographie hépatique et la radio de thorax étaient normales. Le CA 125 était augmenté à 10 705. Une chambre implantable a été posée en vue d’une chimiothérapie, mais à un mois de l’intervention, la patiente a présenté une diarrhée fébrile associée à une incontinence urinaire totale. Cliniquement, la palpation abdominale était peu douloureuse. On retrouvait une crépitation inguinale gauche. Biologiquement, il existait une pancytopénie: plaquettes : 24 000 ; hémoglobine : 7.3 g/dl ; leucocytes : 450/mm3. Le myélogramme était normal.
+
+La fonction rénale était normale (créatininémie à 63 µmol/l). Il existait une hyperglycémie à 19.1 mmol/l. La CRP était à 197.
+
+Les hémocultures ont poussé à Klebsiella pneumoniae et Entérocoque faecalis.
+
+Le scanner sans injection (Figure 1) puis avec opacification de la lumière vésicale (Figure 2) montrait la présence de gaz dans la paroi vésicale. On visualisait une fistule vésico-vaginale (Figure 3). Il existait un doute sur une fistule vagino-rectale. A l’étage thoracique on retrouvait un nodule pulmonaire.
+
+Après 4 jours de réanimation avec antibiothérapie à large spectre : pipéracilline, tazobactam, métrodinazol, amikacine, fluconazole et transfusion plaquétaire et de globules rouges, la patiente est réopérée. Il a été réalisé dans un premier temps une cystoscopie qui retrouvait la fistule vésico-vaginale au sein d’une vessie dont la muqueuse restait bien vascularisée. Il a été posé une sonde urétérale gauche sortant en trans-vésico-pariétal. L’orifice urétéral droit n’était pas repérable car situé dans la zone fistuleuse. La laparotomie reprenant l’incision médiane a retrouvé une péritonite généralisée avec des fausses membranes et une désunion de la tranche de section vaginale. L’aspect de la vessie en laparotomie était simplement inflammatoire avec un aspect brun foncé de la graisse paravésicale à gauche. Il n’a pas été retrouvé de fistule avec le colon, mais une colostomie iliaque droite de principe a été réalisée après une toilette abondante. Le rein droit a été dérivé par une urétérostomie cutanée. La paroi a été refermée sur un drainage type Mickulicz.
+
+En post-opératoire immédiat, un syndrome hémorragique a été traité par transfusions itératives. Puis, après une période d’amélioration hémodynamique et respiratoire progressive, une récidive du syndrome septique a été constatée à J8 avec colonisation par la Klebsielle de la chambre implantable qui est retirée. Le décès est survenu à J10 dans un tableau de défaillance multi-viscérale. 
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-243-cas.txt,"Nous avons été amenés à prendre en charge en octobre 1999 une femme de 67 ans dans le cadre d'une tumeur du rein gauche.
+
+Les examens complémentaires (scanner et scintigraphie) montraient une volumineuse tumeur hétérogène du rein gauche, de 7 cm de diamètre, sans extension loco-régionale, sans métastase à distance. Nous avons réalisé une néphrectomie élargie gauche. Les résultats anatomopathologiques ont mis en évidence un carcinome rénal à cellules claires (8 x 6 x 6,5 cm) avec infiltration partielle de la graisse péri-rénale. La tumeur consistait en des cellules claire et larges, avec des gros noyaux extrêmement polymorphes dans certains sites, et des irrégularités de surface avec de multiples caryosomes. Le diagnostic final était donc un carcinome rénal à cellules claires de stade pT3aN0M0 et de grade de Fuhrman III/IV.
+
+La patiente a été perdue de vue car elle a refusé une surveillance régulière. Elle est revenue en mars 2001 en raison d'un écoulement sanglant vaginal, indolore et spontané. L'examen gynécologique a révélé une tumeur polypoide du tiers supérieur de la face antérieure du vagin, à distance du col utérin. La patiente a été confiée au gynécologique qui a réalisé une exérèse du vagin. Le résultat anatomopathologique fait état d'une métastase d'un carcinome rénal à cellules claires, moyennement différencié, infiltrant la paroi vaginale. Cette tumeur consistait en des cellules claires, angulées et cylindriques, larges, avec des noyaux polymorphes, larges, moyennement pigmentés, et des caryosomes éosinophiles larges (Figure 1). La distribution spatiale était similaire à des formations trabéculaires, avec de multiples insertions fibro-vasculaires (Figure 2).
+
+Les examens histo-chimiques observaient la présence de PAS positif, Diastase négatif, et de granules de collagène. L'immuno-marquage a mis en évidence des cellules tumorales Ca 19.9 normales, Ca 125 normales et EMA hautement positives. Un nouveau bilan d'extension a été réalisé et a mis en évidence de multiples métastases pulmonaires bilatérales. Du fait de ce stade métastatique la patiente a bénéficié d'un traitement palliatif (Doxorubicin liposomial 40 mg/m2/28 jours en IV avec interféron alpha 2_, une fois 1 000 000 UI trois fois par semaine en sous cutané). La patiente, ainsi que sa famille, ont refusé une surveillance régulière, et la patiente a de nouveau été perdue de vue.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-254-cas.txt,"Nous rapportons l'observation d'un patient de 51 ans, aux antécédents d'alcoolisme chronique, d'intoxication volontaire au TCE, hospitalisé pour le sevrage et le bilan de cette intoxication au TCE.
+
+L'interrogatoire retrouvait une alcoolisation régulière depuis l'âge de 20 ans sevrée depuis 1990 avec abstinence depuis.
+
+Le patient avait commencé à inhaler régulièrement du TCE depuis l'année 1999 à la recherche d'euphorie et d'hallucinations. Il s'en était suivi une augmentation progressive des doses de trichloréthylène surtout lors d'épisodes dépressifs et depuis un an, la consommation était quotidienne.
+
+Un premier sevrage de trichloréthylène en milieu hospitalier avait été réalisé, mais le patient avait repris ses inhalations 15 jours après. L'examen clinique était normal et aucun bilan radiologique n'avait été réalisé.
+
+Sa consommation maximale avant la seconde hospitalisation était d'une inhalation toutes les 15 à 20 minutes, sans retrouver l'état euphorique recherché. Il n'avait jamais ingéré le produit.
+
+A l'examen clinique, son état général s'était dégradé (perte d'environ 10 kg sur un mois). La palpation de l'abdomen retrouvait une masse donnant le contact lombaire à droite. Le reste de l'examen était normal.
+
+L'échographie abdominale retrouvait une formation rénale droite tissulaire postéro-latérale à large développement exorénal, sans signe d'envahissement de la veine rénale ni d'adénopathie rétro-péritonéale décelable. Le rein gauche était d'aspect normal. Il n'y avait pas de lésion hépatique secondaire décelable mais une discrète hépatomégalie stéatosique diffuse sans signe de cirrhose ni d'hypertension portale.
+
+Le scanner abdomino-pelvien confirmait le syndrome de masse rénale hétérogène droit avec interruption des bords au niveau de sa partie postérieure refoulant les cavités pyélocalicielles vers l'avant, sans dilatation de ces dernières. Cette masse rénale droite corticale était rehaussée au temps artériel de façon hétérogène et contenait des zones de nécrose. Elle mesurait 68 mm sur 55 mm et s'étendait sur une hauteur de 65 mm.
+
+Un scanner thoracique avait éliminé une localisation secondaire pulmonaire.
+
+Les dosages urinaires à son admission étaient pour l'acide trichloracétique 9,14 mmol/l et pour le trichloréthanol 10,5 mmol/l (normales : 0).
+
+Le sevrage de trichloréthylène s'était déroulé sans incident.
+
+Le patient a été opéré d'une néphrectomie élargie droite. Les suites opératoires ont été simples. L'histologie était un carcinome à cellules claires de 7 cm de grand axe, limité au rein , de grade III de Fuhrman (stade pT2 G3 N0 M0).
+
+A 3 mois de l'intervention, l'évolution clinique était favorable mais le patient avait récidivé sa toxicomanie au TCE.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-28-cas.txt,"M. âgé de 74 ans a été hospitalisé pour des douleurs lombaires gauches en septembre 1999. On notait dans les antécédents chirurgicaux : une appendicectomie et une exploration thoracique pour plaie par balle en 1945. Au plan médical, il existait une ichtyose cutanée congénitale, une hypertension artérielle non traitée, une intoxication tabagique à plus de 100 paquets/années et une probable intoxication éthylique.
+
+L’interrogatoire retrouvait la notion de coliques néphrétiques gauches fréquentes, évoluant depuis au moins 30 ans, mais jamais explorées. Il existait une altération de l’état général majeure avec cachexie. Le patient était apyrétique. L’examen retrouvait à la palpation une masse lombaire gauche douloureuse. Au plan biologique, il existait un syndrome inflammatoire net : CRP supérieure à 200 ng/ml, VS = 117 mm à la première heure, avec une anémie à 9 g d’hémoglobine par dl mais sans hyperleucocytose (leucocytes = 8000). On notait une cholestase modérée sans cytolyse. La fonction rénale était conservée (créatininémie : 82 µmol/l). La calcémie était normale. Les urines étaient stériles. L’échographie rénale montrait un rein gauche dédifférencié, hétérogène, augmenté de volume, avec présence de multiples calculs.
+Les cavités pyélocalicielles n’étaient pas individualisables. La radiographie d’abdomen sans préparation confirmait la présence de calcifications de grande taille évoquant un calcul coralliforme à gauche (Figure 1). Un examen tomodensitométrique abdominal confirmait la présence d’un rein gauche détruit autour de multiples et volumineux calculs pyéliques et caliciels. Les limites du rein gauche vers le bas et en arrière étaient floues avec un aspect d’infiltration du psoas (Figure 2). Il n’existait pas d’adénopathies visibles. Le rein droit, le foie étaient normaux. Une artériographie rénale a été réalisée qui montrait que le rein gauche était vascularisé par une artère unique, filiforme, sans processus hypervasculaire qui aurait évoqué une étiologie tumorale et qui aurait pu être embolisée (Figure 3). La radio de thorax était normale et la tomodensitométrie cérébrale objectivait des séquelles ischémiques frontales droites, sans métastases. Malgré le risque vital inhérent à la cachexie, il a été décidé de réaliser une néphrectomie de propreté en retenant le diagnostic préopératoire de pyonéphrose. L’intervention a été précédée d’une urétéro-pyélographie rétrograde gauche qui a montré un uretère fin avec opacification de cavités pyélocalicielles déformées contenant des calculs.
+
+La néphrectomie réalisée par voie lombaire gauche a concerné un rein inflammatoire et détruit autour de volumineux calculs pyéliques et caliciels. Il existait une infiltration importante du psoas en arrière évoquant macroscopiquement un envahissement tumoral tout autant qu’une extension de réactions inflammatoires intenses.
+L’examen anatomo-pathologique a affirmé la présence d’un volumineux carcinome épidermoïde différencié mature (Figure 4) développé au dépens des cavités excrétrices, pyéliques et calicielles, envahissant la graisse périrénale et ayant détruit la totalité du parenchyme rénal. L’analyse des calculs a retrouvé une lithiase majoritaire en phosphate calcique avec un tiers de carbapatite évoquant, malgré l’absence de struvite, un processus par infection à germe uréasique. Les suites précoces ont été simples au plan local. Le patient a repris une alimentation au 2ème jour. Il a quitté le service d’Urologie pour un service de moyen séjour au 15ème jour. Cependant, l’état général a continué à se dégrader et le décès est survenu 1 mois après l’intervention.
+",NON-FUMEUR,ALCOOLIQUE,UNKNOWN,OUI,OUI,
+filepdf-387-cas.txt,"Suite à un acte suicidaire étayé par une lettre manuscrite laissée sur place, une femme âgée de 54 ans est retrouvée morte chez elle. Aucune autopsie n’est pratiquée et, dans le cadre de la levée de corps, seul un échantillon de sang est prélevé et envoyé au laboratoire. Il a été congelé à –20 ° C jusqu’à analyse.
+
+Aucune notion de temps écoulé entre l’ingestion, le décès et le prélèvement n’a pu être obtenue.
+
+À proximité du corps, on avait retrouvé une bouteille d’alcool ainsi que deux types de granulés, verts et bleus. Ces granulés ont été envoyés ultérieurement au laboratoire pour analyse. Ceux de couleur bleue étaient dans leur boite d’origine correspondant d’après l’étiquette à un produit anti-limaces. Les granulés verts étaient dans un flacon sans étiquette. Les deux types de granulés ont été conservés à température ambiante jusqu’à analyse.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-389-cas.txt,"La victime, un homme de type caucasien de 39 ans, a été retrouvée morte sur le palier de sa maison avec des entailles profondes au poignet. Un traitement à la varénicline lui était prescrit depuis plusieurs mois à la posologie de 1 mg, 2 fois par jour. Le laboratoire a reçu un échantillon de 12 mL de sang cardiaque pour réaliser une recherche large de substances, incluant la varénicline.
+
+Il n’a pas été rapporté de maladies mentales, de dépression ni de tentatives de suicides dans le passé de la victime. Aucune raison évidente (séparation, problèmes au travail, toxicomanie . . . ) à ce geste n’a été avancée par les forces de l’ordre.
+
+Un screening général (médicaments, stupéfiants, pesticides. . . ) réalisé sur l’échantillon de sang de la victime par chromatographie liquide couplée à un barrette de diode (LCDAD) puis par chromatographie gazeuse couplée à de la spectrométrie de masse (GC/MS) n’a pas démontré la présence d’un autre toxique. L’alcoolémie était négative. Ainsi, étant donné son activité potentielle sur le psychique et l’absence de raisons évidentes de vouloir mourir, il est acceptable de considérer que la varénicline ait pu participer à la survenue d’envies suicidaires.
+
+Bien qu’il n’existe pas de contre-indications établies liées aux problèmes psychiatriques, la varénicline est considérée inadaptée pour le traitement de sujets ayant des désordres mentaux. En effet, plusieurs rapports portants sur des épisodes obsessionnels et sur une exacerbation de la schizophrénie induits par la varénicline ont été publiés dans la littérature [7–10]. Le 17 décembre 2007, l’agence européenne du médicament a délivré un communiqué de presse dans lequel elle concluait que des alertes sur l’induction potentielle d’idées suicidaires par la varénicline devraient être mises en place pour prévenir médecins et patients (www.afssaps.fr).
+",UNKNOWN,NON-ALCOOLIQUE,UNKNOWN,,NON,
+filepdf-393-2-cas.txt,"Le 12 février, Mademoiselle M., 36 ans, 64 kg, 1,64 m, victime de coups et blessures, est gardée hospitalisée pour surveillance pendant 24 heures. Quelques jours après sa sortie, soit le 25 février, elle est retrouvée décédée à son domicile. Le premier examen est réalisé par le médecin légiste lors de la levée de corps ; les phénomènes cadavériques sont les suivants : pas d’éléments de putréfaction, la rigidité est installée, les lividités sont antérieures et donc conformes à sa position de découverte. Près du corps, sont retrouvés de nombreux médicaments (bromazepam, zolpidem, zopiclone, Mépronizine, Noctamide, Nureflex et Domperidone) dans ou hors de leur conditionnements.
+
+Les conclusions autopsiques concluent à un décès consécutif à un syndrome asphyxique. Des urines, du sang (cardiaque et périphérique) et le contenu gastrique sont prélevés à des fins d’analyses toxicologiques ultérieures. Le sang est conservé dans des flacons contenant du fluorure de sodium.
+
+Les analyses effectuées sur le contenu stomacal ont mis en évidence la présence d’éthanol (1,29 ± 0,06 g/L), de méprobamate, d’acéprométazine et de benzodiazépines ou assimilées (bromazépam, lormétazépam et zolpidem). Du méprobamate, de l’acéprométazine, des benzodiazépines ou assimilées (bromazépam, hydroxybromazépam, lormétazépam et zolpidem), du pentobarbital, de la nicotine, de la cotinine et de la caféine ont été identifiés dans les urines.
+
+Dans le sang, ont été retrouvés : de l’éthanol (1,16 g/L), du méprobamate (78 µg/mL), de l’acéprométazine (124 ng/mL), des benzodiazépines (bromazépam 330 ng/mL, hydroxybromazépam (non dosé), lormétazépam 144 ng/mL), du zolpidem (665 ng/mL), du pentobarbital (38 ng/mL), de la cotinine (non dosée) et de la caféine (non dosée).
+
+Dans l’observation n° 2, la présence de méprobamate et d’acéprométazine dans le sang confirme aussi l’absorption de Mépronizine. Dans ce cas, pour cette intoxication de moyenne importance (inférieure à 80 µg/mL), le méprobamate est susceptible d’avoir entraîné un effet dépresseur central se traduisant par un coma calme et hypotonique accompagné de complications cardiovasculaires par un effet dépresseur des centres vasoconstricteurs hypothalamiques.
+
+Comme dans le cas précédent, il s’agit d’une poly-intoxication médicamenteuse (benzodiazépines et benzodiazépineslike) associée à une absorption massive d’alcool. L’éthanol, les benzodiazépines et le zolpidem, présents à des concentrations suprathérapeutiques voire toxiques [10], ont pu potentialiser la dépression respiratoire centrale induite.
+",FUMEUR,ALCOOLIQUE,UNKNOWN,OUI,OUI,
+filepdf-395-cas.txt,"Un homme de 42 ans était hospitalisé en urgence le 10 décembre 2003 dans le service de gastro-entérologie pour un tableau d’hépatite aiguë : il avait été admis la veille en service de psychiatrie pour l’aggravation récente de conduites d’alcoolisation.
+
+Ses antécédents personnels étaient marqués par un éthylisme ancien et une toxicomanie à la buprénorphine (Subutex) sevrée depuis six mois. Son traitement habituel associait de la lévopromazine (Tercian), de l’alprazolam (Xanax), de la paroxétine (Divarius) et de l’alimémazine (Theralene).
+
+À l’admission, le patient était apyrétique et son examen clinique était normal. Il n’y avait ni astérixis ni de trouble de la conscience. Son hémodynamique était stable et il n’existait aucun signe de choc. Le bilan biologique d’entrée révélait une macrocytose avec une thrombopénie, un cytolyse majeure avec des ALAT et des ASAT respectivement à 60 à 450 fois la normale, ainsi qu’une cholestase ictérique (phosphatases alcalines, gamma glutamyltransferase et bilirubine conjuguée respectivement à 1,5N, 3N, 75 µmol/L). Le taux de prothrombine était effondré (23 %) avec un facteur V à 8 %. La fonction rénale était normale et une rhabdomyolyse était éliminée, les CPK étant normales. Les sérologies pour les virus des hépatites A, B, C, l’Epstein Barr virus, le cytomégalovirus et l’herpes simplex virus étaient négatives. L’échographie notait une hépato splénomégalie sans signe de dysmorphie hépatique ni de dilatation des veines sus hépatiques. La vésicule était alithiasique et il n’y avait pas de dilatation des voies biliaires.
+
+L’ensemble de ces données permettait de retenir d’emblée le diagnostic d’hépatite aiguë sévère sans signe d’encéphalopathie hépatique. La présence d’une paracétamolémie à 29 mg/L mesurée plus de 24 h après l’admission en l’absence d’administration à l’hôpital, était le seul élément d’orientation étiologique et de gravité. Le patient avouait a posteriori la prise d’une quantité importante de Codoliprane (paracétamol et codéine) les 8 et 9 décembre 2003, avec absorption respectivement de 6,4 et 12,8 g de paracétamol. Un traitement par la N acétyl cystéine était débuté le 10 décembre 2003 à la 24e heure d’hospitalisation (150 mg/kg en une heure suivis de 150 mg/kg sur 20 h) soit 48 h après le début de l’intoxication. L’évolution était favorable avec une normalisation du TP en 96 h et diminution significative des transaminases (figure 1) qui se normalisaient totalement en un mois. Le diagnostic d’hépatite aiguë sévère au paracétamol d’évolution favorable après administration tardive de NAC chez un éthylique chronique était finalement retenu.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-412-cas.txt,"Cet homme de 49 ans, éthylique chronique, avec un antécédent d’intoxication volontaire par ingestion d’hypochlorite de sodium, est hospitalisé après sa découverte à son domicile avec un trouble de la conscience et une perte d’urine.
+
+À son admission le score de Glasgow est à chiffré à 8, la pression artérielle à 100/82 mmHg, la fréquence cardiaque à 120/min, la Sp02 à 100 % en ventilation spontanée, sans signes de choc.
+
+L’ECG montre un rythme sinusal sans troubles de la repolarisation. La kaliémie est à 4,7 mmol/L, le reste du bilan biologique montre une acidose métabolique (pH = 7,22, CO2 T = 25 mmol/L), l’absence d’insuffisance rénale et une recherche négative en antidépresseurs tricycliques.
+
+Le patient est intubé puis transféré dans le service de réanimation médicale du CHU de Rennes où l’on constate à l’admission un état de choc cardiogénique contemporain d’une bradycardie à complexes larges alternant avec des passages de tachycardie supraventriculaire. La kaliémie est alors à 7,8 mmol/L (contrôlée à 8 mmol/L une demi-heure plus tard). La créatinémie est à 207 micromol/L, la diurèse conservée et il n’y a pas de rhabdomyolyse (CPK à 207 UI/L). Après alcalinisation par solution de bicarbonate à 42 /°°° , injection de deux ampoules (10 mL) de gluconate de calcium, injection d’insuline et de glucose, les anomalies ECG régressent très rapidement, la kaliémie est alors dosée à 4,2 mmol/L moins d’une heure après le début de la prise en charge. Dès lors l’état hémodynamique restera stable, la fonction ventriculaire gauche est normale lors de l’échocardiographie. La fibroscopie oesogastrique réalisée le lendemain de l’admission montre des lésions érosives et saignantes du fundus mais sans nécrose.
+
+Le patient sortira du service de réanimation guéri et sans insuffisance rénale après huit jours de prise en charge et cinq séances d’hémodialyse.
+
+Dès la prise en charge hospitalière du patient, la détermination des concentrations sanguines et urinaires en herbicides est réalisée et poursuivie pendant les sept premiers jours d’hospitalisation. L’évolution favorable de l’état clinique permet une extubation à J8 et, en l’absence de séquelles graves, la sortie du patient est autorisée à J11.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-447-cas.txt,"Au cours d’une soirée, une jeune femme de 20 ans aurait absorbé 7 à 8 verres d’alcool (champagne, vodka), le dernier ayant un goût qu’elle décrit comme « inhabituel ». L’une des personnes présentes lui déclare alors avoir mis de l’ecstasy dans son verre à son insu. Cette première prise était intervenue selon elle entre 23 h et minuit. Elle « snifferait » volontairement une seconde prise de MDMA 20 minutes après la première tout en continuant à boire de l’alcool. Après une période d’euphorie et d’excitation d’environ 45 minutes, la victime décrit un véritable « trou noir » jusqu’au lendemain matin 9 heures. La victime déposera plainte le surlendemain des faits pour viol en réunion et administration de substances nuisibles. Elle précisera à l’officier de police judiciaire n’avoir jamais consommé d’amphétamines ou de produits dérivés avant ce soir-là, mais consommer régulièrement de l’alcool en milieu festif. Les prélèvements sanguins et urinaires ont été réalisés au service des urgences à la 36e heure et conservés à +4 °C. Quatre mèches de cheveux de couleur brune ont été prélevées en vertex postérieur 5 semaines après les faits et conservées à température ambiante et à l’abri de la lumière. Lors du prélèvement capillaire réalisé par nos soins au laboratoire, un interrogatoire est réalisé : la jeune femme dit prendre ponctuellement du tétrazepam pour des contractures musculaires et suit, depuis les faits, un traitement préventif contre le VIH à base de Combivir® (lamivudine + zidovudine) et Kaletra® (lopinavir + ritonavir) ainsi qu’un traitement par Atarax® (dichlorydrate d’hydroxyzine) à visée anxiolytique. Elle signale, en outre, n’avoir effectué aucun traitement capillaire particulier depuis les faits.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-474-cas.txt,"Un patient de 58 ans, éthylo-tabagique chronique, avait pour antécédents : une broncho-pneumopathie chronique obstructive, une cardiopathie alcoolique, une insuffisance rénale chronique sévère post néphrectomie tumorale gauche et un syndrome dépressif. Il était traité par bisoprolol, atorvastatine, escitalopram, acamprosate et naltrexone. Le patient était adressé à l’hôpital par son médecin traitant pour trouble de la vigilance, quelques jours après le début d’une nouvelle cure de désintoxication à l’éthanol et l’introduction d’un traitement par baclofène à la posologie de 70 mg par jour per os. Aux urgences de l’hôpital, le patient présentait un état d’agitation et un syndrome confusionnel fluctuant avec des troubles de la conscience (score de Glasgow à 10), sans signe de focalisation neurologique, quelques épisodes de fasciculations des membres inférieurs et une SpO2 à 95 % en air. L’examen respiratoire retrouvait une fréquence respiratoire à 13/min, des ronchis des bases et une acidose respiratoire (pH = 7,17, PaCO2 66 mmHg, HCO−3 23 mmol/L, lactate 0,6 mmol/L). Les constantes hémodynamiques étaient normales (pression artérielle à 139/78 mmHg, fréquence cardiaque à 85/min). Il était apyrétique à 36,7 ° C. Le bilan biologique retrouvait : un ionogramme normal, une insuffisance rénale chronique sévère à diurèse préservée avec une clairance de Cockcroft à 28 mL/min, des enzymes hépatiques normales, une ammoniémie normale à 24 µmol/L, une troponine T inférieure à 0,01 µg/L, un NT pro BNP augmenté à 11 900 ng/L et une alcoolémie nulle. L’ECG était sans anomalie. La radiographie pulmonaire ne montrait pas d’infiltrat alvéolo-interstitiel. Le bilan neurologique comprenait une tomodensitométrie cérébrale et une ponction lombaire qui étaient normales. L’électroencéphalogramme objectivait un ralentissement diffus. Devant ce tableau atypique de souffrance cérébrale et une acidose hypercapnique sans polypnée compensatrice faisant évoquer une absence de stimulation des centres respiratoires centraux, le centre antipoison de la région était contacté pour une probable encéphalopathie médicamenteuse. Il confirmait la concordance des symptômes avec une intoxication possible au baclofène et la possibilité d’un traitement par hémodialyse. Le patient était admis en réanimation. La décision d’une séance d’hémodialyse était prise devant l’absence d’argument pour une autre intoxication (alcoolémie nulle, pas de modification de son traitement de fond), une dose quotidienne de baclofène 14 fois supérieure à la dose recommandée par l’ANSM et une symptomatologie pouvant persister plus de 72 h chez les patients à fonction rénale normale en cas de surdosage. Le dosage sanguin du baclofène, disponible a posteriori, était de 631 µg/L (zone thérapeutique : 80 à 400 µg/L). Une séance d’hémodialyse d’une durée de 3 h était entreprise avec une évolution clinique spectaculaire : les symptômes neurologiques disparaissaient, la dépression respiratoire s’amoindrissait avec une augmentation de la fréquence respiratoire et une correction de l’acidose sur la gazométrie. Le patient sortait de la réanimation à H + 12 et de l’hôpital à H + 48.
+",FUMEUR,ALCOOLIQUE,UNKNOWN,OUI,OUI,
+filepdf-481-5-cas.txt,"Un homme âgé de 21 ans, consommateur habituel de substances récréatives, est amené par des amis à l’hôpital après une prise supposée de kétamine, de mescaline, de 2C-P et d’un 4e produit. Il a fait un malaise en discothèque avec perte de connaissance de durée inconnue. Il présente une tachycardie sinusale à 130 battements/min, une confusion avec hallucinations et agitation, une mydriase bilatérale réactive, un GS à 14/15. Un bilan toxicologique sanguin et urinaire est effectué. Il sort de l’hôpital à H32.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-492-2-cas.txt,"Une fille de 5 ans a été amenée par sa famille pour une intoxication par ingestion de feuilles et graines de D. stramonium (figures 1 et 2). À l’admission, la patiente était agitée, confuse. Son score de Glasgow était à 11/15. L’examen neurologique initial a retrouvé une mydriase bilatérale aréactive et des signes de Babinski bilatéraux sans déficit sensitivomoteur ni de rétention d’urines. Sur le plan hémodynamique, l’enfant était stable avec une pression artérielle à 100/69 mmHg, une fréquence cardiaque à 120 b/min et une SpO2 à 96 %. Une hyperthermie à 39 ° C a été notée avec éruption cutanée généralisée. La numération formule sanguine, le bilan d’hémostase, l’ionogramme sanguin, le bilan hépatique et rénal ont été normaux. Le bilan toxicologique n’a pas été fait. L’ECG était sinusal régulier sans trouble de conduction ou de repolarisation. En 12 h, on a noté une régression des signes d’intoxication par anticholinergiques (régression de la mydriase, de l’hyperthermie). L’examen, en particulier neurologique, réalisé au moment de la sortie était normal. La patiente a été déclarée sortante après 24 h d’hospitalisation.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-496-2-cas.txt,"Monsieur X, 34 ans, est cadre dans une entreprise. On retrouve dans ses antécédents la notion de chirurgie 13 ans plus tôt sur une cloison nasale déviée, avec nettoyage et drainage des sinus frontaux et maxillaires. Après cette intervention, le patient a présenté des difficultés respiratoires qui ont été améliorées avec un traitement par Aturgyl®. Le patient constate à cette époque que l'emploi de ce vasoconstricteur nasal lui permet d'être très actif la journée tout en dormant correctement la nuit, ce qui lui paraît tout à fait intéressant du point de vue professionnel. Il va progressivement augmenter les doses pour arriver au bout de quelques mois à l'utilisation d'un flacon de solution pour pulvérisation nasale par jour (7,5 mg d'oxymétazoline/jour). Au bout de 13 ans de pharmacodépendance, le patient présente des perturbations anarchiques de la tension artérielle, des phases d'agitation paroxystiques, une inflammation chronique massive de la muqueuse nasale avec obturation des voies aériennes supérieures, et une insomnie avec céphalées intolérables dès qu'il n'utilise plus d'Aturgyl®. Le sevrage sera obtenu lors d'une hospitalisation au Centre Antipoison de Marseille, avec baisse progressive des doses quotidiennes. La totalité des signes cliniques a régressé après un mois d'arrêt de la pharmacodépendance.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-500-cas.txt,"Un homme de 29 ans est retrouvé sur la voie publique dans un coma profond hypotonique (score de Glasgow = 3) et en collapsus à 80/40 mm Hg, une à deux heures après l'ingestion supposée de 3 g de clozapine (Leponex®), de zopiclone (Imovane®), d'alprazolam (Xanax®) et d'alcool. A son admission, l'ECG montre une tachycardie sinusale avec allongement de l'espace QT à 0,32 secondes. La radiographie montre une pneumopathie d'inhalation au niveau du lobe moyen gauche. Le bilan biologique initial montre une hyperglycémie (2,68 g/1), une hypokaliémie (3,2 mmol/1) et une polynucléose à 16900 leucocytes/mm . Un premier bilan toxicologique par immunoanalyse (EMIT®, Dade Behring) ne montre que la présence de benzodiazepines dans le plasma. Il n'a pas été retrouvé d'antidépresseurs tricycliques dans le plasma, ni d'opiacés, ni de cannabinoïdes dans les urines (EMIT®, Dade Behring). Il n'y avait pas d'alcool éthylique dans le plasma (REA®, Abbott). La recherche et le dosage des benzodiazepines dans le plasma par CLHP/UV(10) n'a permis de mettre en évidence que 4,3 ug/ml de nordiazépam. L'alprazolam et la zopiclone, recherchés en même temps que les benzodiazepines, n'ont pas été retrouvés.
+
+Le traitement initial a consisté en une ventilation artificielle, un lavage gastrique de 15 litres et l'administration de 25 g de charbon activé (Carbomix®) toutes les 4 heures pendant 24 heures : l'évolution des paramètres biologiques est satisfaisante, avec une normalisation en 5 heures de la glycémie et de la kaliémie. La ventilation artificielle a été maintenue pendant 24 heures. Un syndrome confusionnel a persisté encore 24 heures. Le patient a quitté le service de réanimation environ 72 heures après l'intoxication, pour être accueilli dans un service de psychiatrie.
+
+Compte tenu du contexte clinique, la clozapine a été dosée par CLHP/UV sur seize prélèvements sanguins successifs, de la première heure d'hospitalisation à la cent vingtième heure. Le dosage de la clozapine n'a pas pu être réalisé dans le liquide de lavage gastrique.
+
+Ce cas de tentative de suicide par la clozapine est une illustration supplémentaire des symptômes cliniques induits par une prise massive de ce neuroleptique atypique. Les symptômes neurologiques disparaissent dès que la concentration plasmatique de clozapine atteint environ trois fois les valeurs thérapeutiques. La méthode d'extraction utilisée ne nécessite pas de phase d'évaporation et le dosage dans le plasma mis au point en CLHP-UV est simple et rapide. Les dosages effectués sur 17 prélèvements sanguins échelonnés sur 126 heures nous ont permis d'effectuer un suivi toxicocinétique de la clozapine et de mettre en évidence 3 demivies successives d'élimination.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-503-cas.txt,"M. L. (49 ans) est admis au service des urgences du C.H.U. de Caen pour une intoxication par l'éthylène glycol après absorption d'antigel. Il a déjà été hospitalisé dans ce service à trois reprises dans les jours et les semaines précédents pour intoxication par de l'alcool à brûler (éthylèmie à 1,45 g/1 et méthanolémie à 0¿23 g/L), par absorption d'acétone (acétonémie à 1,16 g/L) et de white spirit, ces épisodes succédant à deux hospitalisations pour éthylisme aigu (2,9 g/L et 2,8 g/L à l'admission).
+
+Sur le plan biologique , ce patient présente à l'admission :
+- une osmolalité sanguine calculée à 284 mOsm/Kg d'eau (trou osmolaire non mesuré)
+- un trou anionique à 42,3 mmol/L (N : 12 à 16 mmol/L)
+- un taux de bicarbonates sanguin effondré : 5 mmol/L (N : 22 à 26 mmol/L)
+- un pH artériel à 6,94 (N : 7,38 à 7,42)
+- une pC02 à 2,1 kiloPascal (N : 4,8 à 5,6 kPa)
+
+Le dosage sanguin de l'éthylène glycol révèle une concentration de 2,25 g/L et celui de l'acide glycolique une concentration de 1,12 g/L.
+
+Au total, le patient présente donc un tableau d'intoxication à l'éthylène glycol avec un trou anionique augmenté et une acidóse métabolique franche. Par contre, l'osmolalité plasmatique n'ayant pas été mesurée, il est impossible d'évaluer l'ampleur du trou osmolaire, dont l'existence est cependant fortement probable.
+
+Le patient est transféré dans le service de réanimation médicale où un traitement antidotique par 4-méthylpyrazole (fomépizole) et une épuration extra-rénale (hémodiafiltration) sont mis en route.
+
+Des prélèvements artériels et veineux sont effectués régulièrement pour le suivi biochimique et toxicologique ; en particulier, des dosages de l'éthylène glycol et de l'acide glycolique sont réalisés toutes les 6 heures.
+
+Le patient s'est remis de cet épisode sans séquelle malgré des perturbations assez importantes des paramètres biochimiques et ce sans doute grâce à une prise en charge rapide de l'intoxication et une mise en route sans tarder du traitement antidotique (4-méthylpyrazole et épuration extra-rénale). Cette observation confirme s'il en était besoin, l'importance du facteur temps dans ce type d'intoxication.
+
+Après un séjour en service de psychiatrie succédant à cet épisode d'intoxication, le patient a de nouveau été admis aux urgences du C.H.U de CAEN pour deux nouveaux épisodes d'intoxication aiguë (éthylèmie à 3,41 g/1 puis acetonemic à 2,18 g/1).
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-508-3-cas.txt,"Un homme d'âge non communiqué était retrouvé mort dans sa cellule de Maison d'Arrêt. La congestion polyviscérale retrouvée par le médecin légiste lors de l'autopsie orientait le décès sur une cause toxique. L'enquête n'a pas su déterminer s'il s'agissait d'un suicide ou d'un accident. La recherche de toxiques notamment végétaux réalisée un an après une première expertise où seule la présence d'alcool éthylique à 0,93 g/L avait été mise en évidence, montrait l'ingestion d'atropine suivie d'un processus mortel très rapide puisque son absence de l'urine montrait que l'élimination n'avait pas commencé (tableau VII). La concentration plus faible dans le contenu gastrique que dans le sang indiquait que la résorption était sur la phase finale. Le décès pouvait ainsi être estimé entre une demi-heure et deux heures après la prise. Son origine est très vraisemblablement due à l'ingestion d'ampoules d'atropine (réservées à l'usage hospitalier en anesthésie-réanimation) déclarées volées à l'infirmerie de la Maison d'Arrêt.
+",UNKNOWN,NON-ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-513-cas.txt,"Le jeune Flavian, âgé de 17 mois, est surpris par sa mère avec des pierres de collection dans la bouche. La mère le fait cracher pour éliminer le maximum de particules et lui rince la bouche à l'eau. Elle se présente affolée aux urgences pédiatriques. Les pierres de couleur jaune vif sont identifiées comme étant de l'orpiment ou sulfure naturel d'arsenic (As S ). L'enfant ne présente pas de symptomatologie clinique particulière. On note l'absence de vomissement et de douleur abdominale. Le reste de l'examen clinique et le bilan biologique sont normaux. Un lavage gastrique est réalisé, Flavian est ensuite traité par charbon activé puis perfusé. La radiographie de l'abdomen sans préparation permet de mettre en évidence plus d'une dizaine de minuscules fragments métalliques (figure 1). Un dosage d'arsenic urinaire est effectué ; il est très élevé : 327 ug/g. L'enfant reste asymptomatique et l'évolution est favorable autorisant une sortie le 2eme jour. A distance de l'intoxication, des contrôles de l'arsenic sanguin et urinaire sont réalisés ; ils sont normaux.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-527-cas.txt,"Un soir, quatre hommes consomment ensemble environ un demi litre d'alcool d'origine inconnue. Dix à 36 heures après l'ingestion, les premiers signes d'intoxication méthylique sont apparus : troubles de la vision, troubles de la conscience et défaillance cardiovasculaire. Les sujets ont été admis à l'hôpital 16 à 63 heures après l'ingestion (tableau I).
+
+Les gaz du sang et ionogrammes ont été réalisés pour tous les patients ainsi que les tests de fonction rénale et les examens toxicologiques (éthanol, methanol). Les résultats des examens biochimiques sont présentés dans le tableau IL Les paramètres de fonction rénale étaient normaux chez tous les sujets sauf chez le patient H. J., chez qui nous avons observé une augmentation de la créatinémie de 50 %.
+
+Tous les patients ont reçu de l'éthanol en intragastrique (dose totale de 505 g à 682 g en 30 à 36 heures) et une hémodialyse concomitante d'une durée de 18 à 21 heures a été réalisée.
+
+Le retour aux valeurs normales des gaz du sang a été observé en 6 à 11 heures pour le pH et en 4 à 12 heures pour la réserve alcaline (chez le patient H. J., qui est décédé, les valeurs ne se sont pas normalisées).
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-533-5-cas.txt,"Un homme d'une cinquantaine d'années d'origine Asiatique est retrouvé mort un matin d'hiver sans portefeuille et sans papier sous une porte cochère ; la nuit est très froide, il est légèrement vêtu (ne porte pas de veste) et est allongé, comme endormi, dans une impasse soumise à un courant d'air froid au sol. Il est transporté à l'hôpital dans un coma hypothermique (29° C) et décède peu après.
+
+L'autopsie met en évidence un décès par hypothermie suite à une exposition prolongée au froid mais ne révèle ni pathologie visible, ni lésions traumanques viscérales ; ce qui n'explique pas l'absence de réaction de la victime au froid.
+
+L'analyse du sang révèle une alcoolémie à 0,81 g/l, la CPG/ECD (détecteur à capture d'électron) met en évidence du midazolam : 15 ng/ml (anesthésique dont l'enquête montrera qu'il a été administré par le SAMU en réanimation). L'analyse en CPG masse tandem permet de détecter quelques picogrammes par millilitre (13 pg/ml) de 7-aminoflunitrazépam, metabolite du flunitrazépam, une benzodiazepine hypnotique (principe actif du ROHYPNOL®).
+
+Ce résultat d'analyse a permis aux enquêteurs d'élucider l'affaire : le flunitrazépam n'était pas prescrit à la victime. Le soir précédent, il buvait une bière en compagnie d'un autre homme dans un bar voisin du lieu de sa découverte. Après son décès, sa carte bleue était utilisée ce qui a permis d'identifier et d'interpeller Fauteur des faits grâce à la caméra vidéo d'un distributeur de billets de banque et d'identifier le bar du délit grâce au ticket retrouvé dans sa poche.
+
+Finalement les enquêteurs ont recueilli les aveux de l'auteur : il avait administré à la victime un comprimé de ROHYPNOL®) pour lui voler sa carte bancaire ; c'était la 40eme personne qu'il dépouillait ainsi et la soumission chimique était son moyen d'existence depuis 10 ans.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-534-10-cas.txt,"Une femme de 29 ans est victime d'agression sexuelle. Des prélèvements de sérum et d'urine sont réalisés aux fins de «recherche d'alcoolémie» de toxiques, et de GHB»
+
+L'alcoolémie est de 1,35 g/l, du THC-COOH est retrouvé dans le sérum au taux de 22,7 ng/ml ( Il n'y a plus de THC). Du GHB est retrouvé dans l'urine au taux de 4 ug/ml.'Ce taux peut-être physiologique (5-7), Par ailleurs, les metabolites du propoxyphene sont retrouvés dans les urines, ainsi que de la caféine et de la cotinine.
+
+Les recherches spécifiques de produits pouvant donner une soumission sont négatives.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-534-11-cas.txt,"Une femme de 35 ans porte plainte pour viol. Elle suivait un traitement par Tranxène® 50 mg, et avait consommé 2 bières et un whisky.
+
+Une alcoolémie d e 0,81 g/1 est retrouvée 6 heures après les faits.
+
+Il n ' a pas été retrouvé de produits stupéfiants, (seule la recherche de stupéfiants semblait intéresser le requérant).
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-534-12-cas.txt,"Une jeune fille, victime d'un viol en réunion, porte plainte. Elle avait consommé de l'alcool et de l'ecstasy. L'alcoolémie est de 1,53 g/l, la MDMA et son metabolite la MDA sont retrouvées dans le sang aux taux respectifs de 10,9 et 2,1 ng/ml
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-534-17-cas.txt,"Une jeune fille de 17 ans consomme avec 2 jeunes hommes, des bières et du cannabis. Elle aurait consommé de son plein gré, 2 joints et 6 cannettes de bière sans refuser les avances de ces messieurs. Elle se fait violer sans résistance. La question du magistrat était de savoir si les quantités consommées pouvaient influer sur son comportement.
+
+Effectivement, l'éthanol et le cannabis modifient le comportement et les aptitudes des consommateurs. Ces effets dépendent des concentrations en principe actif, le delta 9 tetrahydrocannabinol pour le cannabis et l'éthanol pour les bières, ainsi que de la corpulence, et l'état de santé du sujet. Ils se traduisent généralement par une levée des inhibitions, de l'euphorie, une diminution des possibilités de réaction, de la griserie, de l'ébriété...
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-549-cas.txt,"Un homme de 40 ans, M. D.G. est retrouvé mort chez lui. Une cannette de bière contenant seulement 0,5 ml de liquide a été retrouvée à ses côtés. Aucun élément anormal n'ayant été constaté au cours de la levée de corps, l'autopsie n'a pas été demandée. Un échantillon de sang (environ 7 ml) et du liquide gastrique ont été prélevés par aspiration. Ces deux prélèvements ainsi que la cannette de bière ont ensuite été portés au laboratoire de Toxicologie. Un screening par CPG/SM et par CLHP/BD a été réalisé ainsi qu'une recherche de médicaments psychotropes (benzodiazepines, barbituriques, antidépresseurs et neuroleptiques) par des méthodes spécifiques utilisant la CPG/SM et la CLHP/BD. Une technique CPG/SM a été utilisée pour la recherche et le dosage de stupéfiants (opiacés, cocaïne, amphétamines, cannabis, methadone et buprénorphine). L'alcool a été mesuré par méthode CPG couplée à une détection par ionisation de flamme.
+
+Les recherches spécifiques de médicaments psychotropes et de stupéfiants se sont révélées négatives. Il n'a pas été mis en évidence d'alcool ni dans l'échantillon de sang de M. D.G., ni dans le liquide de la cannette de bière. Les screenings CPG/SM et CLHP/BD ont montré la présence de strychnine. En raison d'une très faible quantité de sang disponible, la présente méthode a été développée et appliquée au sang, au liquide gastrique et au liquide contenu dans la cannette de bière afin de quantifier la strychnine. Cette substance a été détectée dans les trois échantillons à notre disposition avec des concentrations respectives de 25 mg/l, 760 mg/l et 850 mg/l. La figure 2 présente le chromatogramme d'un extrait de 0,1 ml du contenu gastrique de M. D.G. (dilué au centième).
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-630-5-cas.txt,"Homme de 28 ans travaillant dans un bar à kava et impliqué dans une rixe à son domicile. Sa chaîne stéréo étant réglée trop fort, son voisinage se plaint. Il s'en suit une altercation verbale qui dégénère ; sous les coups le sujet s'écroule puis décède. Un prélèvement sanguin intracardiaque est réalisé. L'alcoolémie (par CPG/FID) est négative, la recherche de dérivés cannabinoïdes par immunoenzymologie est positive (45 ng/ml) ; le screening toxicologique par CLHP/BD révèle des pics et spectres caractéristiques des kavalactones. Les deux agresseurs n'avaient qu'une alcoolémie de 0,40 et 0,61 g/L.
+",UNKNOWN,ALCOOLIQUE,UNKNOWN,,NON,
+filepdf-630-6-cas.txt,"Homme de 20 ans, se dispute avec sa femme et reçoit un coup de couteau de-cuisine dans la poitrine. Admis en urgence à l'hôpital, il est sauvé. Un prélèvement de sang veineux est effectué. L'alcoolémie est négative, la recherche de dérivés cannabinoïdes par immunoenzymologie est positive (45 ng/ml) ; le screening toxicologique par CLHP/BD révèle des pics et spectres caractéristiques des kavalactones.
+",UNKNOWN,NON-ALCOOLIQUE,UNKNOWN,,NON,
+filepdf-630-7-cas.txt,"Femme de 24 ans trouvée au matin morte dans son lit. Un prélèvement sanguin intracardiaque est effectué. L'alcoolémie est négative, il n'y a pas de trace de stupéfiants ; le screening toxicologique par CLHP/BD révèle des pics et spectres caractéristiques des kavalactones et des traces de cyamémazine. L'histoire clinique révèle que cette personne souffrait d'encéphalopathie entraînant des crises comitiales ; le sujet souffrait aussi de psychose (schizophrénie); Il était traité par acide valproïque, clonazepam, qui n'ont pas été retrouvés au screening. La cyamémazine a été rajoutée au traitement à 17H00 le soir du décès et l'hypothèse d'une mort subite par syndrome du QT long est retenue.
+",UNKNOWN,NON-ALCOOLIQUE,UNKNOWN,,NON,
+filepdf-630-8-cas.txt,"Femme de 30 ans ayant porté plainte pour viol. Des prélèvements divers sur la victime (pour sérologies, test de grossesse, recherche de toxiques sanguins, écouvillonnages...) sont effectués aux Urgences de l'Hôpital sur réquisition de la Police Nationale. L'alcoolémie est positive (1,31 g/L), la recherche des dérivés cannabinoïdes plasmatiques est négative (Cannabis One-Step ELISA, International Diagnostic) le screening toxicologique plasmatique par CLHP/BD révèle des pics et spectres caractéristiques des kavalactones (Figure 11). L'enquête déterminera par la suite que la jeune femme désirait se venger de son ami qui l'avait abandonnée sur un îlot, au large de Nouméa. Il s'agissait donc d'une dénonciation calomnieuse.
+",UNKNOWN,NON-ALCOOLIQUE,UNKNOWN,,OUI,
+filepdf-680-cas.txt,"Il s’agissait d’un patient âgé de 55 ans, sans notion d’alcoolisme ni de tabagisme, qui était admis pour une ulcération endo-buccale évoluant depuis 28 jours. L’interrogatoire avait retrouvé une notion d’odontalgie avec une tuméfaction génienne basse gauche pour laquelle le patient avait fait une automédication à base d’anti-inflammatoire non stéroïdien par voie orale. L’évolution était marquée par une fistule cutanée latéro-mentonnière gauche et une issue de pus en bouche suivie d’une mobilité et de perte dentaire des dents 35-36. Une douleur abdominale à point de départ épigastrique était survenue 18 jours après le début de la prise d’anti-inflammatoire. L’examen clinique avait retrouvé un patient en mauvais état général avec un faciès terreux et une fièvre à 38,5°C, une fistule cutanée latéro-mentonnière gauche (figure 1A), une mauvaise hygiène bucco-dentaire avec halitose, une ulcération en bouche laissant objectiver un séquestre osseux et une carie de la dent 37 (figure 1B) associé à une douleur et une contracture abdominale avec une matité des flancs. Le bilan biologique avait objectivé une hyperleucytose à 19 000 globules blancs/mm3, une anémie à 5 g/dl d’hémoglobine. La radiographie de l’abdomen sans préparation avait objectivé un pneumopéritoine sous la forme d’un croissant gazeux sous phrénique gauche. L’orthopantomogramme avait objectivé un séquestre osseux du corpus mandibulaire gauche. Une réanimation hydro-électrolytique et calorique avait été instituée, associée à une transfusion sanguine ainsi qu’une bi-antibiothérapie (associant une céphalosporine et métronidazole). L’exploration chirurgicale par laparotomie avait permis d’objectiver une perforation d’environ 1cm de diamètre à la face antérieure de l’antre gastrique.
+
+Une ulcérectomie et une suture simple avaient été réalisées. Une séquestrectomie a été faite dans le même temps opératoire. Les suites post opératoires étaient marquées par la survenue du décès du patient à J2 dans un tableau de choc septique.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-69-cas.txt,"Mr. S., 50 ans, marié, deux enfants, ingénieur informaticien, n’a pas d’antécédent notable en dehors d’une tendance alcoolo-tabagique (tabagisme à 70 paquets années et 100 grammes d’alcool quotidiens depuis deux ans).
+
+Il s’est présenté, dans un état d’ébriété, aux urgences le 27 mai 2000 pour une orchi-épididymite aiguë droite fébrile (38,5°C).
+
+Devant un refus de soins, le médecin urgentiste a conseillé une échographie testiculaire et ordonné un traitement de fluoroquinolones associées à des antiinflammatoires non stéroïdiens pour 4 semaines.
+
+Le 7 juin, Mr S. a consulté pour les mêmes symptomes associés à un syndrome douloureux scrotal. Il était apyrétique et l’examen cyto-bactériologique des urines (ECBU) était stérile avec une forte leucocyturie. L’échographie des bourses n’a pas été réalisée et on a observé un refus du traitement initial. On est arrivé à convaincre le patient d’observer très exactement les prescriptions préalables, qu’il a cette fois acceptées.
+
+Le 14 juin, devant la persistance de la douleur, la décision d’hospitalisation fut prise étant donné le doute persistant sur l’observance thérapeutique.
+
+L’échographie testiculaire a mis en évidence une macrocalcification (17 mm) au pôle supérieur du testicule droit, une réaction liquidienne modérée et une augmentation de volume de l’épididyme droit. Il n’a pas été retrouvé à l’interrogatoire d’antécédent de traumatisme testiculaire.
+
+Le dosage des béta HCG, LDH et alpha-foeto-protéine était normal.
+
+A l’examen la température était à 38°C, il y avait une douleur testiculaire accompagnée d’une augmentation de volume de la bourse droite.
+
+Au toucher rectal, la prostate était souple, non suspecte, évaluée à 30 grammes et le taux de l’antigène spécifique de prostate (PSA) était de 2,3 ng/ml.
+
+Le diagnostic d’épididymite sub-aiguë fut retenu. L’évolution a été favorable sous bi-antibiothérapie intra-veineuse probabiliste et synergique, active sur les bacilles Gram negatifs, Escherichia coli en particulier (fluoroquinolones associée à un aminosides).
+
+Le 27 juin, Mr S. est revu en consultation. L’examen a retrouvé un empâtement du testicule droit et de la tête de l’épididyme droite, ainsi qu’un nodule suspect au niveau du pôle inférieur de l’épididyme. Il s’agissait d’une masse solide, non transilluminable, séparée du testicule par un sillon (signe de Chevassu positif).
+
+L’échographie a mis en évidence une macro-calcification de 17mm du pôle supérieur du testicule droit et une augmentation de volume de la tête de l’épididyme droite (Figure 1).
+
+La décision d’orchidotomie exploratrice fut alors prise, mais, Mr S. ne se présenta pas le jour de l’intervention.
+
+Le 24 juillet, soit deux mois après la première consultation, Mr S. s’est présenté à nouveau devant la recrudescence du syndrome douloureux. L’échographie réalisée a retrouvé une formation nodulaire à la jonction entre la tête et la queue de l’épididyme avec une vascularisation de type radiaire périphérique et l’absence de vascularisation en son centre. Il fut noté par ailleurs un épanchement intra-vaginal cloisonné et un aspect normal du testicule contro-latéral (Figure 2).
+
+Le 25 juillet, une exploration testiculaire a été effectuée. La tête de l’épididyme était massivement infiltrée et autorisait une épididymectomie. La pièce fut adressée pour examen anatomo-pathologique et recherche de bacille de Koch (BK). Il fut retrouvé un Mycobactérium tuberculosis multi-sensible à l’examen direct.
+
+Trois tubages gastriques ont été réalisés et ne mettaient pas en évidence de BK à l’examen direct. En revanche, il a été retrouvé un Mycobactérium tuberculosis après culture, ce qui a confirmé le diagnostic de tuberculose tertiaire.
+
+Il est à noter que notre patient était à jour de ses vaccinations et que l’intra-dermo-raction à la tuberculine était faiblement positive.
+
+Une radiographie pulmonaire a retrouvé des lésions multiples de tuberculose, bilatérales, prédominantes au niveau apical droit.
+
+Devant ce tableau de tuberculose pulmonaire active et génitale, après avis de l’infectiologue et un bilan préthérapeutique, une quadrithérapie fut instituée : éthambutol, rifampicine, isionazide et pirazinamide pour une durée totale de 2 mois et une bithérapie par rifampicine et isionazide pendant 4 mois.
+
+La recherche de BK au niveau urinaire par étude de 3 prélèvements était négative et l’ ECBU est resté stérile.
+
+Une tomodensitométrie thoracique a confirmé la présence de lésions pulmonaires au niveau du lobe supérieur droit avec déviation de la trachée vers la droite correspondant à une tuberculose pulmonaire active.
+
+Les sérologies VIH étaient négatives.
+
+Une uro-tomodensitométrie n’a révélé aucune lésion de l’appareil urinaire. Le cadre osseux était indemne de toute lésion bacillaire.
+
+La persistance des douleurs au 15ème jour post opératoire a indiqué une seconde exploration testiculaire et aboutit à une orchidectomie devant une fonte purulente du testicule droit. L’examen anatomo-pathologique a mis en évidence une nécrose ischémique étendue du testicule avec présence de lésions épithélio-gigantocellulaires, sans lésion tumorale associée.
+",FUMEUR,ALCOOLIQUE,PAS SEUL,OUI,OUI,
+filepdf-700-cas.txt,"Il s’agissait d’un homme de 50 ans se présentant en consultation pour un premier accès de palpitations évoluant depuis 2 jours, survenant au repos et persistant pendant quelques minutes. Il n’y avait pas de douleur thoracique ni de dyspnée ni de syncope ou de lipothymie. Aucun antécédent cardiovasculaire n’a été décelé ; notons comme seul facteur de risque le genre masculin. Il n’y avait pas d’hypertension artérielle ni de diabète ni d’intoxication éthylotabagique. L’examen clinique était normal l’état hémodynamique était stable et aucun signe d’insuffisance cardiaque n’a été mis en évidence. La biologie ne décelait aucune élévation des marqueurs de nécrose myocardique ni l’admission ni distance y compris les troponines I ultrasensibles. L’électrocardiogramme l’admission révélait une tachycardie large battant à 150 par minute (fig. 1). Quelques instants plus tard, après avoir reçu une dose de charge de 1200 mg d’amiodarone le tracé électrocardiographique avait montré un rythme sinusal avec présence d’une onde delta et des ondes négatives en antéro-septo-apical (fig. 2). Ainsi nous n’avions pas eu recours une défibrillation électrique devant le caractère bien toléré et rapidement résolutif de l’arythmie.
+
+L’absence d’arguments clinique biologique échographique en faveur d’une cardiopathie ischémique et surtout le contexte rythmique de tachycardie antidromique sur terrain de syndrome de Wolff Parkinson White nous ont permis de mettre sur le compte d’un effet Chatterjee les anomalies de la repolarisation présentées par le patient, même si ses anomalies étaient persistantes.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-710-cas.txt,"Une femme de 50 ans d’origine africaine s’est présentée au service des urgences avec des symptômes d’atteinte neurologique de confusion, d’ataxie, de paresthésie et de céphalées. Elle n’avait aucun antécédent médical connu, puisqu’elle n’avait pas consulté de médecin depuis des années. Elle ne prenait aucun médicament ni produit de santé naturel, n’avait pas d’allergie, ne fumait pas et ne consommait pas d’alcool. Les symptômes décrits s’étaient progressivement aggravés au cours des deux dernières semaines. Elle avait aussi noté une perte de poids au cours des derniers mois. Une prise de sang révéla une pancytopénie ainsi qu’une insuffisance rénale avec une clairance de la créatinine estimée à 45 ml/min selon la formule de Cockcroft et Gault pour un poids de 48,2 kg et un taux de créatinine sérique de 98 µmol/L7. Les valeurs de laboratoire à l’admission de la patiente sont détaillées dans le tableau I. Les examens radiologiques, tels qu’une tomoden­ sitométrie axiale cérébrale ainsi que des imageries cérébrales par résonance magnétique et des tests microbiologiques ont permis aux médecins de poser un diagnostic de toxoplasmose cérébrale associée à un œdème cérébral. Par la suite, d’autres analyses ont révélé la présence du VIH et du VHC. À son admission, le taux de lymphocytes T CD4 était de 46 cellules/µl (numération normale : 700 à 1100 cellules/µl) et la charge virale était de 140 896 copies/ml.
+
+Tableau I. Résultats des épreuves de laboratoire avant le traitement
+Épreuve de laboratoire (valeur normale)*
+Valeurs de base de la patiente
+Créatinine sérique (80 – 110 μmol/L ) 98 μmol/L
+Leucocytes (4,5 – 10,8 x 109/L) 1,9 x 109/L
+Neutrophiles (1,8 – 7 x 109/L) 1,0 x 109/L
+Érythrocytes (4 – 5,5 x 109/L) 3,19 x 109/L
+Hémoglobine (118 – 158 g/L) 92 g/L
+Hématocrite (0,37 – 0,47) 0,267
+Plaquettes (140 – 440 x 109/L) 106 x 109/L
+AST (0 – 40 U/L)
+ALT (0 – 40 U/L)
+38 U/L
+15 U/L
+Bilirubine totale (0 – 21 μmol/L) 8 μmol/L
+Lactate déshydrogénase (93 – 210 U/L) 214 U/L
+GGT (0 – 40 U/L) 34 U/L
+Phosphatase alcaline (30 – 110 U/L) 34 U/L
+*Adapté des valeurs de références de l’Hôpital Maisonneuve-Rosemont et de la référence 9
+ALT : alanine aminotransférase; AST : aspartate aminotransférase; GGT : gamma glutamyltransférase
+
+En guise de traitement de l’œdème secondaire à la toxoplasmose cérébrale, la patiente a reçu de la dexaméthasone, d’abord 4 mg en intraveineuse toutes les six heures pendant 24 heures, puis 2 mg par voie orale toutes les six heures pendant 24 heures, enfin 1 mg par voie orale toutes les six heures pendant 24 heures. Afin d’éradiquer la toxoplasmose, un traitement oral à base de pyriméthamine, d’acide folinique et de sulfadiazine a été entrepris au jour 1. Quant à la pyriméthamine, la patiente en a reçu une dose de charge de 200 mg, puis une dose quotidienne de 75 mg. Pour ce qui est de l’acide folinique, la patiente a reçu une dose de 50 mg une fois par jour jusqu’au jour 6, puis 15 mg une fois par jour. La dose de sulfadiazine était de 1 500 mg quatre fois par jour. Le tableau II résume les choix de traitement à l'infection Toxoplasma gondii.
+
+Le jour 7, l’équipe médicale a entrepris un traitement oral contre le VIH constitué de ténofovir (300 mg une fois par jour), d’emtricitabine (200 mg une fois par jour), d’atazanavir (300 mg une fois par jour) et de ritonavir (100 mg une fois par jour). Aucun traitement du VHC n’a été entrepris durant l’hospitalisation.
+
+Dès l’admission de la patiente, les taux d’enzymes hépatiques ont progressivement augmenté pour atteindre leur maximum au jour 13, à 473 U/L pour l’aspartate aminotransférase (AST) et à 193 U/L pour l’alanine aminotransférase (ALT). Le traitement par antirétroviraux (ARV) a donc été interrompu, et la sulfadiazine a été remplacée par la clindamycine (600 mg quatre fois par jour, d’abord par voie intraveineuse pendant dix jours, puis par voie orale). Les taux d’AST et d’ALT ont progressivement diminué. Au jour 22, les ARV ont été réintroduits aux mêmes doses sans qu’on observe une augmentation des taux d’enzymes hépatiques. Environ deux semaines plus tard, un traitement oral au triméthoprimesulfaméthoxazole (TMP-SMX;160mg-800mg trois fois par semaine) a été entrepris pour prévenir une infection opportuniste à Pneumocystis jiroveci. Les taux d’enzymes hépatiques ont progressivement augmenté à nouveau en cinq jours. La figure 1 présente l’évolution des résultats des épreuves de laboratoire permettant d’évaluer la fonction hépatique. Le TMP-SMX a alors été remplacé par la dapsone, 100 mg une fois par jour par voie orale. Les taux d’enzymes hépatiques sont revenus à leur niveau de base en trois jours.
+
+Tableau II. Choix de traitement de l’infection à Toxoplasma gondii1,2,4
+Traitement Posologie
+1re ligne Pyriméthamine
++ acide folinique
++ sulfadiazine
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+2e ligne Pyriméthamine
++ acide folinique
++ clindamycine
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+600 mg IV ou par voie orale toutes les six heures
+Autres possibilités TMP-SMX 5 mg/kg TMP et 25 mg/kg SMX IV ou par voie orale deux fois par jour
+Sulfadiazine 1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+Atovaquone
++ pyriméthamine
++ acide folinique
+1500 mg deux fois par jour avec des aliments
+200 mg en une dose, puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+Atovaquone
++ sulfadiazine
+1500 mg deux fois par jour avec des aliments
+1000 mg (< 60 kg) à 1500 mg (≥ 60 kg) toutes les six heures
+Atovaquone 1500 mg deux fois par jour avec des aliments
+Pyriméthamine
++ acide folinique
++ azithromycine
+200 mg en une dose,puis 50 mg (< 60 kg) à 75 mg (≥ 60 kg) une fois par jour
+10 à 25 mg une fois par jour
+900 à 1200 mg une fois par jour
+IV : par voie intraveineuse; TMP-SMX : triméthoprime-sulfaméthoxazole
+
+Jour 1 7 10 12 13 14 16 19 20 22 27 29 32 33 37 40 42
+MÉDICAMENTS
+Pyrimethamine
+200 mg
+x1 dose
+75 mg
+1 x/j
+Acide folinique
+50 mg
+1 x/j
+15 mg
+1 x/j
+Sulfadiazine
+150 mg
+4 x/j cessé
+Clindamycine
+600 mg
+IV 4 x/jour
+600 mg PO
+4 x/jour
+Dexaméthasone
+4 mg IV
+4 x/j cessé
+Tenofovir/emtricitabine -
+300/200 mg
+1 x/j cessé
+300/200 mg
+1 x/j
+300/200 mg
+aux 2 jours
+Atazanavir - 300 mg 1 x/j cessé 300 mg 1 x/j
+Ritonavir - 100 mg 1 x/j cessé 100 mg 1 x/j
+TMP-SMX
+160/800 mg
+3 x/sem cessé
+Dapsone
+100 mg
+1 x/jour
+LABORATOIRES
+ALT (0-40 U/L) 15 - 64 156 198 165 124 71 61 44 40 36 - 28 57 41 -
+AST (0-40 U/L) 38 - 116 366 447 337 153 69 56 43 58 47 - 45 114 53 -
+Bilirubine totale (0-21 umol/L) 8 - - 17 25 26 10 7 9 19 11 12 - 20 23 21 -
+GGT (0-40 U/L) 34 - 46 - 69 74 118 115 115 99 105 113 - 108 110 121 -
+LD (93-210 U/L) 214 - 446 - - - - - 294 - - 241 - 247 379 - -
+Ph. Alc. (30-110 U/L) 34 - 45 36 35 39 62 - 63 58 68 74 - 79 75 - -
+idem
+-
+-
+idem
+idem
+idem
+-
+-
+-
+idem
+idem
+idem
+idem
+idem
+idem
+- idem
+idem
+Figure 1. Chronologie des événements
+ALT : alanine aminotransférase; AST : aspartate aminotransférase; GGT : gamma glutamyl transférase; IV : intraveineux; LD : lactate déhydrogénase; Ph. Alc. : phosphatase alcaline;
+PO : par la bouche; TMP-SMX : triméthoprime-sulfamethoxazole
+
+Tableau III. Posologie des médicaments par voie orale au retour à domicile
+Pyriméthamine 75 mg une fois par jour
+Acide folinique 15 mg une fois par jour
+Clindamycine 600 mg quatre fois par jour
+Dapsone 100 mg une fois par jour
+Ténofovir 300 mg tous les deux jours
+Emtricitabine 200 mg tous les deux jours
+Atazanavir 300 mg une fois par jour
+Ritonavir 100 mg une fois par jour
+
+Dans le cas de cette patiente, bien qu’il s’agisse d’une option de dernière ligne, il était approprié d’interrompre la thérapie antirétrovirale, puisque les taux d’AST et d’ALT atteignaient dix fois la normale2,19. Une fois ces taux redevenus normaux, il est possible de reprendre les ARV2-4,19. Un suivi étroit de la fonction hépatique doit alors être mis en place2,3,19. Le remplacement de la sulfadiazine par la clindamycine est l’option à privilégier, et les cotraitements restent inchangés1-3. La durée du traitement varie en fonction de l’évolution clinique et radiologique, mais elle doit atteindre au minimum six semaines et n’est pas influencée par le changement de thérapie1-3,20.
+
+Après deux mois d’hospitalisation, la patiente est retournée chez elle avec les médicaments décrits dans le tableau III. Elle ne présentait plus de symptômes neurologiques de toxoplasmose, et son bilan hépatique était normal. Le VHC n’a pas été traité pendant cette hospitalisation et a été pris en charge en externe.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-750-cas.txt,"Une femme de 72 ans, ayant comme antécédents un diabète de type 2, de l’hypertension et une dyslipidémie, se présente à l’urgence d’un centre hospitalier régional pour des nausées qui durent depuis environ quatre semaines mais qui se sont aggravées au cours des derniers jours. En effet, depuis quatre jours, elle est incapable de s’alimenter, mais elle réussit tout de même à prendre ses médicaments. Elle n’a pas de diarrhée, ni de vomissements, ni d’ictère, et sa température est normale. Elle ne souffre pas, et l’examen physique ne révèle rien de particulier. La patiente ne fume pas, ne prend que très rarement de l’alcool et n’a pas d’allergie aux médicaments. Elle n’a pas non plus d’antécédents de maladie hépatique.
+
+L’histoire médicamenteuse complète est présentée au tableau I. On note que, trois mois auparavant, elle a souffert de douleurs à l’épaule pour lesquelles son médecin lui a prescrit du diclofénac, qu’elle a utilisé pendant six semaines consécutives environ, et une injection de triamcinolone un mois plus tard. Elle ne prend donc plus de diclofénac depuis un mois et demi environ. L’irbésartan 150 mg une fois par jour lui a été prescrit deux jours avant l’introduction du diclofénac, pour traiter une hypertension récente. La patiente prend l’acide acétyl salycilique (AAS), l’atorvastatine, le gliclazide et la metformine depuis au moins deux ans. Il lui arrive d’utiliser l’acétaminophène en automédication pour des douleurs arthritiques. Elle a aussi utilisé du collagène, un produit de santé naturel, pour soulager ses douleurs, mais elle n’en prend plus depuis plusieurs semaines. Les résultats détaillés des examens et analyses sanguines sont présentés au tableau I. On remarque une élévation importante de la phosphatase alcaline et des enzymes hépatiques aspartate aminotransférase (AST) et alanine aminotransférase (ALT). La bilirubinémie demeure toutefois dans les valeurs normales, et les gamma-glutamyltransférases (GGT) n’ont pas été dosées. L’échographie abdominale montre une stéatose hépatique légère ne pouvant expliquer une telle perturbation du bilan hépatique. Les éosinophiles sont normaux, et les tests de dépistage pour l’hépatite A, B et C, le cytomégalovirus (CMV) et le virus d’Epstein-Barr (EBV) sont tous négatifs. On suspecte une hépatite d’origine médicamenteuse, et le médecin interrompt arbitrairement la prescription d’atorvastatine, de gliclazide et d’irbésartan.
+
+Tableau I : Histoire médicamenteuse et résultats des analyses sanguines
+Fév 06 Aoû 06 Sep 06 Oct 06 Nov 06 J 0 J 2 J 4 Fév 07 Jui 08 Déc 08
+AAS 80 mg 1 fois/j + + + + + + + + + + + +
+Atorvastatine 10 mg 1 fois/j + + + + + + - - - + + +
+Gliclazide 40 mg 2 fois/j + + + + + + - - - + + +
+Metformine 500 mg 2 fois/j + + + + + + + + + + + +
+Irbésartan 150 mg 1 fois/j - - - + + + - - - - - -
+Diclofénac 50 mg 3 fois/j - - - + + - - - - - - -
+Triamcinolone inj - - - - + - - - - - - -
+Cyclobenzaprine au besoin ? ? + - - - - - - - - -
+Célécoxib 200 mg 1 fois/j ? ? + - - - - - - - - -
+Amlodipine 5 mg 1 fois/j - - - - - - - - - - + +
+Acétaminophène au besoin ? ? + + + + - - - + + +
+Ibuprofène au besoin ? ? - - - - - - - ? ? +
+AAS-butalbitalcodéine au besoin - - - - - - - - - + ? ?
+LABORATOIRES
+AST (U/L) - 18 - - - - 871 381 99 15 16 -
+ALT (U/L) - 21 - - - - 1557 954 524 17 16 - 
+Phosphatase alcaline (U/L) - 92 - - - - 450 367 364 - 85 -
+Bilirubine totale (μmol/L) - - - - - - 18 10 8 7 - -
+Formule sanguine - - - - - - N - - - - - 
+RIN - - - - - - 1,0 - - - - -
+AAS : Acide acétyl salicylique; j : jour; AST : Aspartate aminotransférase; ALT : Alanine aminotransférase; N : Normale; RIN : Ratio international normalisé
+
+On remarque que, dès la première journée d’hospitalisation de la patiente, les enzymes hépatiques AST et ALT ont diminué significativement ainsi que la phosphatase alcaline. Pour cette raison, une investigation médicale plus poussée n’était pas nécessaire. Au congé de l’hôpital, soit quatre jours après son admission, la patiente ne présente plus de symptômes, et seul l’irbésartan n’est pas réintroduit. Deux mois après l’hospitalisation, les enzymes hépatiques et la phosphatase alcaline sont revenus à leur niveau de base, et le bilan hépatique est demeuré normal au cours des deux années qui ont suivi l’épisode. La patiente n’a jamais repris d’irbésartan ni d’autres ARA et a utilisé de l’ibuprofène occasionnellement pour remplacer le diclofénac.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-756-cas.txt,"La patiente, 51 ans, 1,70 m, 73 kg, de race blanche, arrive à l’urgence au jour 1. Elle présente comme antécédents médicaux de l’hypothyroïdie depuis l’âge de 20 ans, de l’asthme, des thromboses veineuses profondes à répétition (cinq reprises), de l’arthrose au dos et aux mains, elle a subi une hystérectomie, une chirurgie de dérivation biliopancréatique six ans plus tôt et une septoplastie pour polypose nasale. Elle ne fume pas, consomme de l’alcool occasionnellement et est allergique aux chats, aux graminées et à la poussière, mais ne présente pas d’allergie à des médicaments. La patiente adhère à ses traitements médicamenteux. Notons qu’elle revient d’un voyage touristique en République dominicaine au jour 1. La médication usuelle prise par la patiente au moment de l’hospitalisation est répertoriée au tableau I. Cette médication ne changera pas durant toute l’évolution du cas.
+
+Tableau I : Médication usuelle de la patiente
+Médication Posologie Durée d'utilisation
+Warfarine 5 mg Selon RNI Long terme
+Quinine 300 mg 1 capsule au coucher Long terme
+Sulfate ferreux 300 mg 2 comprimés 2 fois par jour Depuis chirurgie bariatrique
+Carbonate de calcium 500 mg 1 comprimé 3 fois par jour Depuis chirurgie bariatrique
+Vitamine B12 1000 μg ½ comprimé 1 fois par jour Depuis chirurgie bariatrique
+Multivitamines 1 comprimé 1 fois par jour Depuis chirurgie bariatrique
+Lactobacilles 6 milliards 1 capsule 4 fois par jour Long terme
+Vitamine D 50 000 UI 1 capsule 2 fois par jour Depuis chirurgie bariatrique
+Docusate sodique 100 mg 2 capsules au coucher Long terme
+Vitamine A 10 000 UI 3 capsules 2 fois par jour Depuis chirurgie bariatrique
+Mométasone 2 inh dans chaque narine 2 fois par jour au besoin Long terme
+Salbutamol 100 μg 2 inh 4 fois par jour au besoin Long terme
+Fluticasone 250 μg 2 inh 2 fois par jour Long terme
+mg : milligrammes; UI : unités internationales; μg : microgrammes; inh : inhalation; RNI : ratio normalisé international.
+
+Elle présente, depuis environ un mois, une sensation d’oppression thoracique continuelle sous forme de serrement. Elle ne manifeste cependant ni douleur rétrosternale ni palpitations. Malgré une légère dyspnée subjective, la patiente ne ressent pas d’orthopnée ou de dyspnée paroxystique nocturne. Il y a aussi présence d’un œdème des membres inférieurs, plus important à gauche qu’à droite. Cet œdème, habituellement présent chez la patiente, a augmenté depuis le voyage. Elle rapporte un accroissement de la fatigue et de la faiblesse, une constipation de longue date, mais depuis le retour du voyage, les selles sont plus abondantes et plus pâles. Un test de réflexe tendineux montre une réponse retardée. Le bilan hépatique demandé se révèle légèrement perturbé. À la lumière de ces résultats et du voyage récent en République dominicaine, on entreprend une recherche d’hépatite A, dont le résultat est négatif. Étant donné les antécédents d’hypothyroïdie et en raison des changements que peuvent entraîner les fluctuations de la fonction thyroïdienne sur le plan du bilan hépatique (notamment des AST, ALT, LDH et CK), une mesure du taux de TSH s’impose6,7. Le tableau II présente l’évolution des valeurs de laboratoire de la patiente.
+
+La valeur de TSH s’avère anormalement élevée (57, 87 mU/L; normale = 0,270-4,20), ce qui peut signifier une élévation du taux des enzymes hépatiques, parfois associée à l’hypothyroïdie. C’est ce que l’on a constaté chez notre patiente. Avec le résultat de T4 qui se situe dans les normales (15,2 pmol/L; normale = 10-22), un dosage de la T3 est alors nécessaire. Le résultat obtenu de 0,98 nmol/L est inférieur aux valeurs normales (normale = 1,30-3,10) et la probabilité d’un diagnostic d’hypothyroïdie causée par une diminution de la conversion périphérique de la T4 en T3 est grande. Au jour 2, on ajoute donc au traitement à la lévothyroxine une thérapie à base de liothyronine, un analogue de la T3, à raison de 50 µg une fois par jour.
+
+À ce moment, les soupçons se portent fortement sur une étiologie médicamenteuse, le principal suspect étant la chloroquine, puisqu’il s’agit du seul médicament récemment introduit. Pour le moment, aucune modification n’est apportée au traitement prophylactique de la malaria; il se poursuit comme prévu. La prophylaxie se terminera au jour 16, soit après une durée d’utilisation de 42 jours. Aucun autre médicament n’est incriminé sur le moment, du fait de la grande stabilité de la médication de la patiente, soit la même médication depuis la chirurgie de dérivation bilio-pancréatique qui a eu lieu six ans auparavant.
+
+Au jour 3, la patiente obtient son congé de l’urgence et on lui demande de revenir à l’hôpital passer d’autres tests de fonction thyroïdienne lors de ses prochains RNI, qui sont plus rapprochés à la suite du déséquilibre de la fonction thyroïdienne. Les tests suivants seront effectués au jour 7 et 9. Elle doit également revoir l’interniste à la clinique externe de médecine interne de l’hôpital au jour 13.
+
+Au moment de la rencontre au jour 13, l’état général de la patiente s’est amélioré. En effet, elle se sent moins fatiguée et elle dort mieux. De plus, le poids de la patiente, qui était de 73 kg au jour 1, se situe maintenant à 70 kg. Devant l’amélioration des résultats de laboratoire, on diminue la dose de liothyronine à 25 µg une fois par jour.
+
+Une deuxième rencontre a lieu au jour 22. L’état clinique de la patiente s’est amélioré par rapport à la dernière visite. La réponse au test de réflexe tendineux s’est normalisée. La patiente continue à perdre du poids et se stabilise à environ 64 kg. La TSH est en légère hausse depuis la dernière visite, à la suite de la baisse du dosage de la liothyronine de 50 µg à 25 µg.
+
+Tableau II : Évolution des valeurs de laboratoires de la patiente et de la médication thyroïdienne
+Mesure TSH T4 T3 AST ALT CK LDH Bilirubine - - -
+Normales 0,270-4,20 mU/L 10-22 pmol/L 1,30-3,10 nmol/L 0-40 UI/L 0-42 UI/L 0-165 UI/L 0-225 UI/L 0-17 μmol/L - - -
+Médication - - - - - - - - Chloroquine Liothyronine Lévothyroxine
+Jour -24 - - - - - - - - Début 500 mg 1 fois par semaine - 0,3 mg
+Jour 1 57,87 15,2 - 171 211 265 409 12 - - 0,3 mg
+Jour 2 83,00 14,6 0,98 99 168 187 306 10 - 50 μg 0,4 mg
+Jour 7 10,50 13,7 1,30 - - - - - - 25 μg 0,4 mg
+Jour 9 6,83 14,1 1,85 - - - - - - 25 μg 0,4 mg
+Jour 13 4,16 14,8 2,02 - - - - - - 25 μg 0,4 mg
+Jour 16 5,30 14,8 2,02 - - - - - Fin 25 μg 0,4 mg
+Jour 18 15,60 13,3 1,45 25 43 133 - - - 25 μg 0,4 mg
+Jour 32 30,60 12,0 1,19 - - - - - - 25 μg 0,4 mg
+Jour 45 - - - - - - - - - 25 μg 0,4 mg
+Jour 53 15,13 12,0 1,58 - - - - - - 25 μg 0,4 mg
+Jour 81 1,81 20,4 1,68 - - - - - - 25 μg 0,4 mg
+Jour 91 - - - - - - - - - Fin 0,4 mg
+Jour 101 0,26 29,0 1,68 - - - - - - - 0,4 mg
+Jour 136 0,50 19,7 1,31 - - - - - - - 0,4 mg
+Jour 187 1,67 21,2 1,38 - - - - - - - 0,4 mg
+mU : milliunités; pmol : picomole; nmol : nanomole; mg : milligrammes; μg : microgrammes; UI : unités internationales; μmol : micromole;
+L : litre
+
+Au jour 45, au cours d’une visite de contrôle subséquente, en tenant compte des derniers résultats de laboratoire, soit la TSH à une valeur de 30,6 mU/L (normale = 0,270-4,20) et la T4 à 12 pmol/L (normale = 10-22), le médecin augmente la dose de lévothyroxine à 400 µg une fois par jour. L’état clinique n’indique aucun symptôme d’hypothyroïdie, mais les résultats de laboratoire demeurent anormaux. Afin d’accélérer le processus de retour à la normale, le médecin traitant demande à la patiente d’espacer la prise de lévothyroxine de celle de son premier comprimé de calcium du matin. Normalement, la patiente prend la lévothyroxine vers cinq heures du matin et le calcium, vers six heures trente. En espaçant les deux comprimés d’environ quatre heures, l’absorption de la lévothyroxine est meilleure8. Par ailleurs, au jour 91, on retire la liothyronine de la médication de la patiente. Une dernière visite de routine est prévue au jour 143, afin de s’assurer de l’état général de la patiente et de la normalisation des taux sanguins de la fonction thyroïdienne. À ce moment, l’évaluation clinique et les valeurs de laboratoire sont de retour à la normale.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-757-cas.txt,"Il s’agit d’un homme de 79 ans suivi à la clinique externe de mémoire. Le patient a des antécédents de dépression, d’angine stable, d’hypertension, d’hyperplasie bénigne de la prostate, d’ostéopénie, d’hyperlipidémie, de maux de tête chroniques et d’apnée du sommeil. Il demeure avec sa femme et est indépendant pour ses activités de la vie quotidienne et domestique.
+
+Les médicaments pris régulièrement par le patient sont l’escitalopram dosé à 5 mg une fois par jour, l’aténolol à 50 mg une fois par jour, l’aspirine à 81 mg une fois par jour, la risédronate à 35 mg une fois par semaine, le calcium à 500 mg avec de la vitamine D à 400 UI deux fois par jour, l’acétaminophène à 500 mg deux fois par jour et l’oméprazole à 20 mg une fois par jour. Il ne présente aucune allergie, ne fume pas et prend un verre d’alcool à l’occasion. Il pèse 64 kg, et tous les résultats des tests de laboratoire sont normaux. La créatinine sérique est à 66 umol/L, avec une clairance à la créatinine calculée selon la formule de Cockcroft et Gault à 72 mL/min4.
+
+À sa première visite à la clinique de mémoire, où il a subi une évaluation en janvier 2008, il a reçu un diagnostic de démence mixte, soit démence de type Alzheimer avec contribution cérébrovasculaire. Ultérieurement, à la suite d’une évaluation effectuée par tomoscintigraphie cérébrale par émission de protons avec un radiotraceur 18F-fluorodéoxyglucose (FDG TEP), le diagnostic de démence vasculaire sera confirmé (hypoperfusion pariétale et temporale droite sans atteinte significative du gyrus cingulaire postérieur et des hippocampes et stable aux examens de juin 2008 et juillet 2009). Le MiniMental State Examination (MMSE) est de 26/30, et l’évaluation cognitive de Montréal (MOCA) est de 24/305,6. Sa tension artérielle lors de sa première visite est de 135/75 mmg Hg avec un pouls à 64 battements par minute.
+
+Après le diagnostic de démence mixte, on lui prescrit un timbre transdermique de rivastigmine à raison de 4,6 mg/24 h une fois par jour. Le 5 juin 2008, la dose est augmentée à 9,5 mg/24 h une fois par jour. Le patient est revu à la clinique le 28 août 2008 pour un suivi; il tolère bien l’augmentation de la dose de rivastigmine, et son MMSE demeure stable à 26/30. En novembre 2008, lors d’un autre suivi effectué à la clinique de mémoire, son MMSE est de 27/30, et le patient ne rapporte pas d’effets indésirables.
+
+Le 21 mai 2009, le patient se présente à la clinique de mémoire avec son épouse. Il mentionne qu’il se sent endormi depuis une semaine, et sa femme ajoute que son époux oublie de plus en plus de choses. Après la mise à jour de son profil médicamenteux, on apprend que son médecin de famille lui a prescrit de la cyclobenzaprine dosée à 10 mg au coucher sept jours auparavant pour des douleurs au cou. Aucun changement dans les autres médicaments n’a été observé. On lui fait subir un MMSE, qui se solde par un résultat de 20/30. À la suite de la description des symptômes par le patient et son épouse, ainsi que de la faiblesse objectivée du résultat de son MMSE, le gériatre décide de retirer immédiatement la cyclobenzaprine et de revoir le patient à la clinique deux semaines plus tard.
+
+Un suivi est effectué le 4 juin 2009. On note que le MMSE est revenu à sa valeur antérieure, soit 27/30, et que le patient ne se sent plus endormi. Sa femme mentionne que son mari est redevenu comme avant. Le patient a regagné les points perdus lors du MMSE effectué 21 mai 2009. Il a donc récupéré ses points en épelant le mot « monde » à l’envers et trois autres points avec le rappel des trois mots. Les trois autres points perdus portaient sur l’orientation temporale et le dessin des polygones; points qu’il avait perdus lors de ses visites précédentes. Les deux MMSE ont été exécutés par la même infirmière pour assurer l’uniformité dans la façon de procéder au test.
+",NON-FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-776-7-cas.txt,"Mme Ou., Dénia âgée de 62 ans, originaire de Tiaret, mère de huit enfants, ménopausée à 42 ans, est orientée dans le service en 2002 pour chondrocalcinose vertébrale. L’examen clinique a montré une anémie sévère, une ochronose siégeant au niveau des oreilles, des mains (lits unguéaux), des sclérotiques, une hypoacousie, un rachis totalement enraidi en cyphose, une limitation douloureuse des épaules et une hydarthrose des genoux. Les clichés radiographiques montrent des images associant pincement et calcification des disques à une ostéoporose sévère des vertèbres et des os périphériques donnant l’aspect des os de verre, un bloc vertébral en L1–L2 ( Fig. 4 ). Les genoux et les épaules présentent aussi des pincements de l’interligne articulaire et une discrète condensation des surfaces articulaires. L’ostéodensitométrie a montré un t score à –3,3. L’hémoglobine est à 62 g/l, la fonction rénale est normale et l’acide urique à 34 mg/l. Elle recevait 4 mg/jour de méthylprednisolone pour rhumatisme depuis plusieurs années. La patiente a bénéficié de deux transfusions de sang total, de deux perfusions de 60 mg de pamidronate, et d’un traitement martial ce qui a amélioré son état. L’AHG est à 18 mmol/l.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-803-cas.txt,"Un homme âgé de 43 ans, présentait depuis 14 mois une inflammation conjonctivale de l’œil gauche, avec apparition progressive d’une exophtalmie qui s’est aggravée d’une ophtalmolplégie et d’une cécité gauche. L’examen ophtalmologique révèle une exophtalmie grade 3 axile, irréductible, indolore avec une lagophtalmie ; une acuité visuelle à 6/10 de l’œil droit, limitée à la perception lumineuse négative au niveau de l’œil gauche, le tonus oculaire est normal à l’œil droit, difficile à prendre à l’œil gauche, une ophtalmoplégie, un chémosis avec une hémorragie sous-conjontivale. Le fond d’œil retrouve un oedéme papillaire stade VI. L’échographie oculaire a mis en évidence une masse retro-oculaire tissulaire mesurant 30,5×42,4 mm hétérogène; vascularisée au doppler couleur, responsable d’une exophtalmie.
+
+L’IRM orbitaire a mis en évidence un processus bien limitée, tissulaire retro-oculaire gauche mesurant 37mm×45mm×40mm, isosignal T1, hypersignal T2 prenant le contraste de manière intense et hétérogène avec des zones vides de signal en rapport avec des vaisseaux. Il n’existe pas d’érosion osseuse.
+
+L’exérèse par voie fronto orbitaire gauche était totale par évidemment et accouchement, découvrant une tumeur capsulée hémorragique. L’étude histologique a mis en évidence une prolifération tumorale fusocellulaire d’aspect bénin, l’étude immunohistochimique a montré une positivité diffuse et homogène du CD34 avec une positivité focale de la PS100, confirmant la tumeur fibreuse solitaire.
+
+En post-opératoire, il y a eu une régression de l’exophtalmie. La TDM orbitaire de contrôle n’a pas mis en évidence de récidive avec un recul d’un an.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-829-cas.txt,"Notre malade est une jeune fille de 17 ans originaire d’une zone rurale, sans antécédents pathologiques notables qui a présentée 20 jours avant son admission un tableau clinique fait de douleurs abdominales diffuses à prédominance pelvienne évoluant sur un mode paroxystique accompagnés de vomissements intermittents avec notion de constipation le tout évolue dans un contexte de fièvre, d’asthénie et d’anorexie.
+
+L’examen à l’admission trouve une patiente fatiguée ses conjonctives sont légèrement décolorées son état hémodynamique est stable, elle est fébrile à 38.5°C .
+
+L’examen physique trouve un abdomen sensible de façon diffuse avec un empâtement douloureux hypogastrique. Le toucher rectal perçoit une masse rénitente sensible comblant le douglas.
+
+L’échographie abdominopelvienne rapporte la présence d’une formation kystique multiloculaire de 10 cm de siège sus et rétrovésical (Figure 1).
+
+En vue de la caractérisation de la lésion un complément scannographique est pratiqué montrant une volumineuse structure kystique multicloisonnée « en nid d’abeille » faisant 11 cm de grand axe comblant le cul de sac de douglas compatible avec un kyste hydatique pelvien type III (Figure 2).
+
+Il a été noté au cours du même examen la présence d’une formation kystique de 5 cm au dessus de l’ovaire droit ainsi que la découverte d’une thrombose partielle de la veine mésentérique supérieure.
+
+Une radiographie pulmonaire pratiquée en vue d’éliminer une hydatidose pulmonaire associée est sans particularités.
+
+La numération formule sanguine montre une hyperleucocytose à 24800/mm3 à prédominance neutrophiles et une anémie hypochrome microcytaire à 8,1 g/100ml.
+
+Le diagnostic d’hydatidose pelvienne infectée est retenu sur la base des données de l’anamnèse, de l’examen physique, de l’hyperleucocytose ainsi que sur l’aspect radiologique échographique et tomodensitométrique évocateurs.
+
+La patiente a d’abord était mise sous antibiothérapie à base d’ampicilline protégée pour suspicion d’infection du kyste ; sous antalgiques et sous anticoagulants. Elle a été transfusée de 2 culots globulaires et la patiente est opérée 48 heures plus tard dans de meilleures conditions.
+
+La patiente fut abordée par une incision de pfannenstiel l’exploration après exposition trouve un gros kyste d’environ 12 cm de grand axe de siège rétrovésical et sus utérin comblant le cul de sac de douglas contractant de multiples adhérences épiploiques et grêliques qui sont libérées en premier de façon soigneuse.
+
+Après avoir protégé les organes de voisinages par des champs imbibés d’une solution scolicide à base d’eau oxygénée on procède à la stérilisation du kyste par la même solution puis à la kystoperikystectomie partielle (Figure 3).
+
+La formation kystique annexielle droite correspondait à un hydrosalpinx dont l’aspiration a permis de retirer un liquide brun clair qui fut adressé à l’examen cytobactériologique.
+
+Le drainage de la cavité résiduelle par un drain tubulé termine l’intervention. Les suites opératoires étaient simples avec reprise alimentaire le lendemain de l’intervention retrait du drainage à j + 3 et la patiente est sortie à J+5.
+
+l’examen cyto-bacteriologique du liquide de ponction est revenu négatif et la patiente est asymptomatique et sans recidives sur un recule de trois ans.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-856-cas.txt,"M. L.A âgé de 44 ans, connu tabagique à 3 paquets /année, éthylique occasionnel, hospitalisé pour un bilan d'une anémie sévère associée à des moelenas évoluant depuis 5 mois dans un contexte de conservation de l'état général, sans fièvre.
+
+A l’admission, l’examen clinique a retrouvé une pâleur cutanéo-muqueuse très marquée avec une dyspnée d’effort stade 2 et des vertiges, l’examen abdominal a été normal, notamment pas d’hépatomégalie ni splénomégalie ni masse palpable,le toucher rectal a confirmé le moelena et n’a pas relevé d’autre anomalie. Le reste de l’examen somatique a été sans particularité. Devant le syndrome anémique mal toléré, et la déglobulisation avec hémoglobine à 4g /dl et hématocrite à 15% le patient a été transfusé. Le reste du bilan biologique a montré un bilan hépatique et rénal normaux, ainsi que le bilan d’hémostase la vitesse de sédimentation.
+
+La fibroscopie digestive haute, et la colonoscopie n’ont pas mis en évidence des lésions pouvant expliquer les moelenas. Un transit du grêle est réalisé n’a pas montré des lésions muqueuses au niveau du grêle.
+
+L’évolution a été marquée par la récidive de l’hémorragie digestive avec une déglobulisation nécessitant des transfusions sanguines à répétition. L’échographie et la tomodensitométrie abdominale ont été normales et n’ont pas montré de processus tumoral abdominal, ni de lésions hépatiques ou spléniques.
+
+L’évolution a été marquée par la récidive de l’hémorragie digestive avec une déglobulisation nécessitant des transfusions sanguines à répétition. Une deuxième exploration endoscopique dans le but d’aller le plus loin possible dans le grêle a été réalisée : la fibroscopie digestive haute a été normale et la coloscopie a montré une lésion rouge plane de 5mm, évoquant une angiodysplasie juste en amont de l’angle colique droit ne saignant pas au cours de l’examen, avec présence de sang dans le cæcum ; le cathétérisme de la dernière anse iléale n’a pas pu être fait.
+
+Devant l’échec de cette exploration endoscopique et la récidive des moelenas; une artériographie digestive a été indiquée, mais non faite par manque de moyens. Le patient est confié aux chirurgiens pour une laparotomie exploratrice.
+
+L’exploration chirurgicale a découvert une lumière du grêle pleine de sang à partir de 2 mètres de l’angle duodéno-jéjunal sans tumeur palpable; le reste du grêle et le colon a été d’aspect normal.
+
+Une entéroscopie peropératoire est réalisée a objectivé une lésion polypoide, rouge framboisée ; sessile, très vascularisée, hémorragique, située à 30cm de la jonction iléon cæcale.
+
+Une résection iléale de 15cm emportant la lésion avec une anastomose termino-terminale a été réalisée. Les suites opératoires précoces ont été simples (hémoglobine à 11,3g/100ml, hématocrite à 35%). L’étude histologique définitive de la pièce opératoire a conclu à un hémangiome caverneux du grêle entrant dans le cadre d’une hémangiomatose intestinale diffuse.
+
+Le patient est revu à la consultation 3 semaines plus tard, l’examen clinique a noté une pâleur cutanéomuqueuse avec une anémie à 5,9g/100ml il a été transfusé mais il avait refusé d’être ré hospitalisé. Quatre mois plus tard le patient est admis au service des urgences pour un tableau d’hémorragie digestive de grande abondance responsable d’un état de choc, malgré la mise en condition et les gestes de réanimation le patient est décédé après trois heures de son admission suite à un arrêt cardiaque.
+",FUMEUR,NON-ALCOOLIQUE,UNKNOWN,NON,NON,
+filepdf-872-2-cas.txt,"Patiente âgée de 26 ans, sans antécédents pathologique notable, G2P1. G1 : avortement à 2 mois G2 : grossesse actuelle estimé à 8 mois référée pour stéatose gravidique. L’examen à l’admission : patiente obnubilée, GCS à 12, apyrétique, ictère cutanéo-muqueux, tension artérielle 14/8, contractions utérines positives, bruits cardiaques fœtaux négatives. Toucher vaginale : patiente à dilatation complète. La patiente a accouchée par voie basse d’un MFIU. La patiente a présenté une hémorragie de la délivrance, nécessitant une prise en charge médicale par 40 UI de syntocinon + 5 comprimés de misoprostol en intra-rectale et un gramme de l’acide tranexamique,
+
+Un bilan a été demandé : Hémoglobine 12,6 g/dl ;un taux de plaquettes 81.000/mm3 ; urée : 0,81g/l ; créatinine : 42,19 mg/l ASAT 185UI/L ; ALAT 73,5UI/L TP 13%. ; PAL 741 UI ; Bilirubine totale : 147mg/l ; bilirubine direct 93mg/l ; bilirubine indirecte 54mg/l ; PDF= 119 la patiente a été dialysé pour la correction de son insuffisance rénale. La patiente a reçu 3 grammes de fibrinogène. L’échographie hépatique a été en faveur d’un foie de stéatose avec la présence d’une ascite de moyenne abondance.
+
+Un bilan a été refait après 48 heures, a révélé une hémoglobine à 11,6 g/dl, taux de plaquette à 30.000/mm3 ; urée à 0,78g/l ; créatinine à 30,5mg/l ; TP 29 % ; ASAT à 124 UI ; ALAT 51 UI ; PAL à 611ui bilirubine totale 169mg/l ; bilirubine direct : 106 mg/l ; bilirubine indirect 63mg/l ; PDF 25,68, la patiente a reçu 3 grammes de fibrinogène. Une biopsie hépatique a été réalisée, dont le résultat était en faveur d’une stéatose hépatique gravide.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
+filepdf-88-cas.txt,"Madame H. Anne Marie, âgée de 57 ans, a été hospitalisée pour syndrome dépressif en mai 2000.
+
+On notait dans ses antécédents une cholécystectomie , une salpingite, une HTA, une allergie à la pénicilline et à l’aspirine, un éthylisme chronique, un tabagisme à 60 paquets-année.
+
+La patiente présentait une hématurie microsopique depuis 3 ans. Le bilan échographique récent retrouvait une lésion tissulaire de 9 cm-5 cm développée dans le rétropéritoine gauche ne semblant pas envahir le rein gauche.
+
+Les cytologies urinaires ne retrouvaient pas d'élément en faveur d'une lésion urothéliale. La tomodensitométrie confirmait la présence d'une formation tissulaire de 80-51-75 mm de densité 34 UH sans injection et de 52 UH à la phase artérielle, 77 UH au temps excrétoire (Figure 1). Cette formation venait à face postérieure du rein gauche sans atteinte du parenchyme rénal adjacent, il n'existait pas d'adénopathie.
+
+L'IRM mettait en évidence une masse tissulaire de 8885-42 mm de diamètre encapsulée (Figures 2 et 3 ) sauf en regard de sa portion moyenne où elle apparaissait étroitement en contact avec le parenchyme rénal. Cette lésion avait un hyposignal en T2 et isosignal par rapport au parenchyme en T1. Il existait un rehaussement modéré après injection de gadolinium.
+
+Devant l’aspect radiologique peut habituel de cette lésion, et l’absence d’envahissement du parenchyme rénal adjacent,une biopsie avait été réalisée sous échographie. Celle-ci montrait une prolifération de cellules au noyau ovoïde ou fusiforme sans atypie ni mit ose. Leur cytoplasme était bien visible, allongé, éosinophile. Ces cellules adoptaient une architecture en faisceaux enchevêtrés, séparés par des zones de collagène plus ou moins denses. Il s'y associait quelques rares lymphocytes et mastocytes. Cela évoquait une lésion de nature mésenchymateuse de type léïomyome.
+
+Devant l'aspect atypique de la lésion, il était décidé de réaliser une exérèse de cette lésion associée à une néphrectomie polaire supérieure en fonction de l’aspect per-opératoire.
+
+Durant l'intervention la lésion était encapsulée, la dissection permettait un plan de clivage entre la lésion et le rein, sauf sur un centimètre où elle semblait dépendre de la capsule. L’examen extemporané permettait de mettre en évidence une prolifération de cellules fusiformes.
+
+Les suites opératoires étaient simples et la patiente sortait au 7ème jour.
+
+L’examen anatomopathologique de la pièce portait sur une lésion macroscopiquement bien limitée, de 80 par 55 par 80 mm. A la coupe, elle était d’aspect charnu, homogène. Histologiquement (Figure 4), elle était constituée de faisceaux enchevêtrés de fibres musculaires lisses, se disposant au sein d’un stroma fibreux ou oedémateux. Ces cellules, fusiformes présentaient un noyau ovoïde ou allongé, sans atypie ni mitose. Il n’était pas retrouvé d’adipocytes au sein de la prolifération.
+
+L’examen immuno-histochimique mettait en évidence un immuno-marquage positif des cellules fusiformes avec les anticorps anti-vimentine, desmine et actine, confirmant leur nature musculaire lisse. Par contre, l’immunomarquage réalisé avec l’HMB45 était négatif.
+
+Compte tenu de la localisation et des aspects histologiques et immuno-histochimiques, il s’agissait d’un léïomyome développé aux dépens de la capsule rénale.
+",FUMEUR,ALCOOLIQUE,PAS SEUL,OUI,OUI,
+filepdf-91-1-cas.txt,"Un garçon de 4 ans a été vu en 1980, pour infections urinaires récidivantes depuis un an.
+
+L'examen clinique était sans particularité. L' urographie intra veineuse (UIV) montrait un rein muet du côté droit avec une vessie apparemment normale.
+
+La cystographie mettait en évidence un aspect de ""double vessie"" avec un reflux massif dans ce qui semble être un uretère très dilaté, correspondant au rein droit dysplasique (Figure 2a).
+
+L'exploration endoscopique confirmait l'existence d'une vessie antérieure fonctionnelle recevant l'uretère gauche, et d'une vessie postérieure non fonctionnelle, communicant avec la précédente par un petit orifice situé au niveau du col et recevant l'uretère droit. Afin de tester la fonction résiduelle du rein droit, une urétérostomie a été réalisée dans un premier temps par abord rétro-péritonéal au niveau du tiers moyen de l'urètre droit.
+
+L'exploration a permis de trouver deux uretères dilatés qui étaient dérivés. Le diagnostic posé à ce stade a été celui de duplication vésicale avec duplicité droite.
+
+L'absence de récupération fonctionnelle du rein droit a conduit à réaliser secondairement une urétéro-néphrectomie totale et une résection de la cloison inter-vésicale.
+
+
+L'intervention (Figure 2b) a révélé une quadrifidité urétérale, trois uretères correspondant à la partie inférieure du rein, se réunissant en un seul, lequel à son tour rejoignait l'uretère du pyélon supérieur un peu en amont de la jonction urétéro-vésicale (Figure 2c).
+
+L'évolution et le suivi à distance ont été sans particularité.
+",UNKNOWN,UNKNOWN,UNKNOWN,,,
