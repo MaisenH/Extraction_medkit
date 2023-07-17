@@ -1,0 +1,5 @@
+T1	alcool 269 275	alcool
+T2	alcool 900 906	alcool
+A1	is_negated T2
+T3	alcool 907 916	éthylique
+A2	is_negated T3

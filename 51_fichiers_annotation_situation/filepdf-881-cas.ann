@@ -1,0 +1,12 @@
+T1	alcool 474 480	alcool
+T2	alcool 1204 1213	éthylisme
+T3	alcool 1951 1957	alcool
+T4	alcool 4923 4929	alcool
+T5	alcool 7373 7382	éthylisme
+T6	alcool 8905 8914	éthylisme
+T7	alcool 9054 9063	éthylique
+T8	alcool 9945 9954	éthylisme
+T9	situation 7485 7492	divorce
+T10	situation 6752 6758	mariée
+A1	other_detected T10
+T11	situation 7026 7031	marie

@@ -1,0 +1,4 @@
+T1	tabagisme 210 220	tabagiques
+A1	is_negated T1
+T2	alcool 202 208	alcool
+A2	is_negated T2

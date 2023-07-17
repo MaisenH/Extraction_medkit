@@ -1,0 +1,4 @@
+T1	tabagisme 459 468	tabagique
+A1	is_negated T1
+T2	alcool 453 459	éthylo
+A2	is_negated T2

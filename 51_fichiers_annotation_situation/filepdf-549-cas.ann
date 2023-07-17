@@ -1,0 +1,7 @@
+T1	alcool 72 77	bière
+T3	alcool 1067 1073	alcool
+A1	is_negated T3
+T2	alcool 1153 1158	bière
+A2	is_negated T2
+T4	alcool 1410 1415	bière
+T5	alcool 846 852	alcool
