@@ -1,7 +1,0 @@
-T1	tabagisme 29 38	tabagique
-T2	alcool 22 28	éthylo
-T3	alcool 140 146	alcool
-T4	alcool 1542 1548	alcool
-A1	is_negated T4
-T5	alcool 2410 2416	alcool
-A2	is_negated T5
