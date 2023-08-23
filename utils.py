@@ -238,13 +238,16 @@ def neg_detector_alcool():
     # Liste des expressions régulières définissant la négation pour la consommation d'alcool
     neg_rules = [
 
-        NegationDetectorRule(regexp=r"ne\s*boit\s*pas"),
+        NegationDetectorRule(regexp=r"ne\s*boit\s*pas"),        
         NegationDetectorRule(regexp=r"\bne/s*consomme/s*pas\b"),
         NegationDetectorRule(regexp=r"\bni\b"),
         NegationDetectorRule(regexp=r"\bpas\b"),
         NegationDetectorRule(regexp=r"\becarte\b"),
         NegationDetectorRule(regexp=r"\bnulle|negative\b"),
-        NegationDetectorRule(regexp=r"rarement|occasion"),
+        NegationDetectorRule(regexp=r"rarement|occasion|moderement"),
+        NegationDetectorRule(regexp=r"non (ethylique|alcoolique)"),
+        NegationDetectorRule(regexp=r"absence\s(stricte\s)?de\sconsommation"),
+        NegationDetectorRule(regexp=r"n'a jamais consomme"),
 
     ]
     
@@ -283,7 +286,7 @@ regexp_rules_tabac = [
     RegexpMatcherRule(regexp=r"nicotine", label="tabagisme"),
 ]
 regexp_rules_alcool = [
-    RegexpMatcherRule(regexp=r"alcool", label="alcool", exclusion_regexp = "acido/s*alcoolo|acido-alcoolo"), 
+    RegexpMatcherRule(regexp=r"alcool", label="alcool", exclusion_regexp = "acidoalcooloresistant|acido/s*alcoolo|acido-alcoolo|bacille alcoolo acido"), 
     RegexpMatcherRule(regexp=r"ethylisme|ethylique|ethylo", label="alcool"),
     RegexpMatcherRule(regexp=r"biere[s]?", label="alcool"),
     RegexpMatcherRule(regexp=r"champagne[s]?", label="alcool"),
@@ -303,60 +306,7 @@ regexp_rules_familial = [
     RegexpMatcherRule(regexp=r"\b(vit|habite)\sseul(e)?\b", label="situation"),
 ]
 
-def convert_to_pred_ents(docs):
-    """
-    Convertit les annotations de documents en une liste d'entités prédictives pour l'évaluation.
-    
-    Args:
-    - docs (list): Une liste de documents contenant des annotations.
-    
-    Returns:
-    - list: Une liste de listes d'entités. Chaque sous-liste contient les entités d'un document.
-    """
 
-    pred_ents = []  # Liste pour stocker les entités prédictives pour chaque document
-    
-    # Boucle sur chaque document
-    for doc in docs:
-        entities = []  # Liste pour stocker les entités du document courant
-        
-        # Boucle sur chaque entité dans les annotations du document
-        for entity in doc.anns:
-            entity_spans = []  # Liste pour stocker les étendues de l'entité
-            start_list = []  # Liste pour stocker les points de début des étendues
-            end_list = []  # Liste pour stocker les points de fin des étendues
-            
-            # Boucle sur chaque étendue de l'entité
-            for span in entity.spans:
-                
-                # Si l'étendue est de type ModifiedSpan
-                if isinstance(span, ModifiedSpan):
-                    replaced_span = span.replaced_spans[0]
-                    start_list.append(replaced_span.start)
-                    end_list.append(replaced_span.start + span.length)
-                    
-                # Si l'étendue est de type Span
-                elif isinstance(span, Span):
-                    start_list.append(span.start)
-                    end_list.append(span.end)
-            
-            # Trouver l'étendue min et max pour l'entité
-            start = min(start_list) if start_list else None
-            end = max(end_list) if end_list else None
-            
-            # Ajouter l'étendue à la liste des étendues
-            entity_spans.append(Span(start=start, end=end))
-            
-            # Créer un objet Entity avec l'étiquette, les étendues et le texte de l'entité
-            entity_obj = Entity(label=entity.label, spans=entity_spans, text=entity.text)
-            
-            # Ajouter l'entité à la liste des entités
-            entities.append(entity_obj)
-        
-        # Ajouter la liste des entités du document courant à la liste globale
-        pred_ents.append(entities)
-    
-    return pred_ents
 
 # Règles de normalisation pour convertir des caractères spéciaux et des diacritiques 
 # en une forme standard ou pour les supprimer. Par exemple, les lettres accentuées 
@@ -381,15 +331,20 @@ norm_rules = [
     NormalizerRule(pattern_to_replace=r"æ", new_text="ae"),
     NormalizerRule(pattern_to_replace=r"…", new_text="..."),
     NormalizerRule(pattern_to_replace=r"≤", new_text="<="),
-    NormalizerRule(pattern_to_replace=r"‰", new_text="%"),
+    NormalizerRule(pattern_to_replace=r"‰", new_text="test"),
     NormalizerRule(pattern_to_replace=r"ß", new_text="ss"),
     NormalizerRule(pattern_to_replace=r"±", new_text="+-"),
     NormalizerRule(pattern_to_replace=r"—", new_text="--"),
     NormalizerRule(pattern_to_replace=r"✔", new_text=""),
     NormalizerRule(pattern_to_replace=r"€", new_text="EUR"),
-    NormalizerRule(pattern_to_replace=r"­", new_text="")
-]
+    NormalizerRule(pattern_to_replace=r"­", new_text=""),
+    NormalizerRule(pattern_to_replace=r"™", new_text="(tm)"),
+    NormalizerRule(pattern_to_replace=r"Œ", new_text="(OE)"),
+    NormalizerRule(pattern_to_replace=r"¼", new_text="1/4"),
+    NormalizerRule(pattern_to_replace=r"©", new_text="(c)"),
+    NormalizerRule(pattern_to_replace=r"¾", new_text="3/4")
 
+]
 def preprocess_clinical_case(clinical_case):
     doc = TextDocument(text=clinical_case)
     
@@ -457,27 +412,50 @@ def apply_entity_extraction(doc, syntagmas):
     return doc
 
 def extraction_finale(clinical_case_repo, option_melange):
+    """
+    Cette fonction traite des cas cliniques pour extraire des informations liées au tabagisme, à l'alcool et à la situation. 
+    Elle renvoie les données traitées sous forme de DataFrame et une liste de documents traités.
+
+    Paramètres:
+    - clinical_case_repo : Le chemin ou l'identifiant du dépôt des cas cliniques à traiter.
+    - option_melange : Un indicateur booléen ou un paramètre lié au mélange (fonction exacte pas claire sans plus de contexte).
+
+    Retourne :
+    - df : Un DataFrame pandas contenant des informations traitées pour chaque cas clinique.
+    - docs : Une liste d'objets de documents traités.
+    """
+    
+    # Initialisation des listes pour stocker les données pour le tabagisme, l'alcool, la situation et les données générales.
     data_tabac, data_alcool, data_situation, data, docs = [], [], [], [], []
 
+    # Récupération des cas cliniques du dépôt donné.
     clinical_cases_dico = clinical_case_recovery(clinical_case_repo, option_melange)
 
+    # Boucle sur chaque cas clinique pour le prétraitement et l'extraction des entités.
     for fichier, clinical_case in clinical_cases_dico.items():
+        # Prétraitement du cas clinique pour obtenir un objet de document et des syntagmes.
         doc, syntagmas = preprocess_clinical_case(clinical_case)
-        apply_negation_detectors(syntagmas)
-        doc = apply_entity_extraction(doc, syntagmas)
 
+        # Application de la détection de négation sur les syntagmes.
+        apply_negation_detectors(syntagmas)
+
+        # Extraction des entités des syntagmes et mise à jour du document.
+        doc = apply_entity_extraction(doc, syntagmas)
         docs.append(doc)
 
+        # Extraction des informations de statut liées au tabagisme, à l'alcool, et à la situation à partir du document.
         tabagisme = statut_extraction_tabac(doc)
         alcool = statut_extraction_alcool(doc)
         situation = statut_extraction_situation_familiale(doc)
 
-        # Remplissage de data
+        # Remplissage des listes de données avec les informations extraites.
         data_tabac.append([fichier, clinical_case, tabagisme])
         data_alcool.append([fichier, clinical_case, alcool])
         data_situation.append([fichier, clinical_case, situation])
-        data.append([fichier, clinical_case, tabagisme,alcool,situation])
+        data.append([fichier, clinical_case, tabagisme, alcool, situation])
+    
+    # Conversion de la liste de données combinées en DataFrame pandas.
     df = pd.DataFrame(data, columns=["nom fichier", "cas clinique", "tabagisme", "alcool", "situation"])
     
-    return df,docs 
+    return df, docs
 
