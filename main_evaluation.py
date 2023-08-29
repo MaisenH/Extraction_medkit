@@ -144,7 +144,9 @@ def generate_entity_vectors(docs_medkit,docs_brat):
     vecteur_gold.sort(key=lambda item: (compare_elements(item), item[1]))
     vecteur_predicted.sort(key=lambda item: (compare_elements(item), item[1]))
     
-    return vecteur_predicted, vecteur_gold
+    return  vecteur_predicted,vecteur_gold
+
+
 def modifier_liste(liste, rule):
     """
     Modifie la liste donnée en fonction de la règle spécifiée.
@@ -168,69 +170,68 @@ def modifier_liste(liste, rule):
     return nouvelle_liste
 
 def main():
+
     # path du fichier contenant annotations brat
-    path= "51_fichiers_annotation_alcool" # TO FIX
-    statut_a_recuperer = path.split("_")[-1] # On recupère cette info pour généraliser le script après
-    print(f"\nEVALUATION DU STATUT {statut_a_recuperer.upper()}\n")
-    brat_converter = BratInputConverter()
-    docs_brat = brat_converter.load(dir_path = path)
+    path= "51_fichiers_annotation_situation" 
+    statut_a_recuperer = path.split("_")[-1] 
 
+    # On ouvre un fichier pour l'écriture des résultats
+    with open(f'resultat_{statut_a_recuperer}.txt', 'w', encoding='utf-8') as fichier_resultat:
+        fichier_resultat.write(f"\nEVALUATION DU STATUT {statut_a_recuperer.upper()}\n")
+        
+        brat_converter = BratInputConverter()
+        docs_brat = brat_converter.load(dir_path = path)
 
-    df,docs_medkit = extraction_finale(f"51_fichiers_annotation_{statut_a_recuperer}",option_melange=False)
-    pred_ents = convert_to_pred_ents(docs_medkit)
+        df,docs_medkit = extraction_finale(f"51_fichiers_annotation_{statut_a_recuperer}",option_melange=False)
+        pred_ents = convert_to_pred_ents(docs_medkit)
 
-    ## Evaluation au niveau des entitées entre les annotations brat et medkit
-    print("\n\nEvaluation au niveau des entités : \n")
-    evaluator = SeqEvalEvaluator(tagging_scheme="iob2")
-    metrics = evaluator.compute(documents=docs_brat, predicted_entities=pred_ents)
-    for metric, value in metrics.items():
-        print(f"{metric}: {value}")
+        # Evaluation au niveau des entités
+        fichier_resultat.write("\n\nEvaluation au niveau des entités : \n")
+        evaluator = SeqEvalEvaluator(tagging_scheme="iob2")
+        metrics = evaluator.compute(documents=docs_brat, predicted_entities=pred_ents)
+        for metric, value in metrics.items():
+            fichier_resultat.write(f"{metric}: {value}\n")
 
+        # Evaluation au niveau des négations
+        fichier_resultat.write("\n\nEvaluation au niveau des négations : \n")
+        vecteur_predicted, vecteur_gold = generate_entity_vectors(docs_medkit, docs_brat)
 
-    ## Evaluation au niveau des négations entre les annotations brat et medkit
-    print("\n\nEvaluation au niveau des négations : \n")
-    vecteur_predicted,vecteur_gold=generate_entity_vectors(docs_medkit,docs_brat)
+        predicted_neg_list = modifier_liste(vecteur_predicted,"tabagisme")
+        gold_neg_list = modifier_liste(vecteur_gold,"tabagisme")
 
+        y_true = gold_neg_list
+        y_pred = predicted_neg_list
 
-    predicted_neg_list = modifier_liste(vecteur_predicted,"tabagisme")
-    gold_neg_list = modifier_liste(vecteur_gold,"tabagisme")
-    y_true = gold_neg_list
-    y_pred = predicted_neg_list
-    report_dict = classification_report(y_true, y_pred, output_dict=True)
-    for metric, value in report_dict.items():
-        if isinstance(value, dict):
-            print(f"{metric}")
-            for key,val in value.items():
-                print(f"   {key}: {val}")
-        else:
-            print(f"{metric}: {value}")
+        if len(y_true) != len(y_pred):
+            raise ValueError(f"y_true and y_pred have different lengths: {len(y_true)} vs {len(y_pred)}")
 
-    ## Evaluation au niveau des statuts finaux entre les annotations brat et medkit
-    print("\n\nEvaluation au niveau des statuts : \n")
-    df_final = pd.read_csv(f'{statut_a_recuperer}_df.csv')
-    # Calcul de la matrice de confusion
-    cm = confusion_matrix(df_final[f'{statut_a_recuperer}_V'], df_final[f'{statut_a_recuperer}'])
+        report_dict = classification_report(y_true, y_pred, output_dict=True)
+        for metric, value in report_dict.items():
+            if isinstance(value, dict):
+                fichier_resultat.write(f"{metric}\n")
+                for key, val in value.items():
+                    fichier_resultat.write(f"   {key}: {val}\n")
+            else:
+                fichier_resultat.write(f"{metric}: {value}\n")
 
-    # Création d'une figure avec Seaborn
-    plt.figure(figsize=(4, 3))
-    sns.heatmap(cm, annot=True, cmap='RdPu', fmt='g', cbar=False)
+        # Evaluation au niveau des statuts finaux
+        fichier_resultat.write("\n\nEvaluation au niveau des statuts : \n")
+        df_final = pd.read_csv(f'{statut_a_recuperer}_df.csv')
 
-    # Définition des labels et du titre
-    plt.xlabel('Valeurs Prédites')
-    plt.ylabel('Valeurs Réelles')
-    plt.title(f'Statut {statut_a_recuperer}\n')
+        # Calcul de la matrice de confusion
+        cm = confusion_matrix(df_final[f'{statut_a_recuperer}_V'], df_final[f'{statut_a_recuperer}'])
 
-    # Définition des étiquettes des axes x et y avec un alignement au centre
-    if statut_a_recuperer == "situation":
-        tick_labels = ['NS', 'S', '?']
-    else: 
-        tick_labels = ['O', 'N', '?']
-    tick_marks = np.arange(len(tick_labels)) + 0.5
-    plt.xticks(ticks=tick_marks, labels=tick_labels, ha='center')
-    plt.yticks(ticks=tick_marks, labels=tick_labels, va='center')
+         # Calcul de la matrice de confusion
+        cm = confusion_matrix(df_final[f'{statut_a_recuperer}_V'], df_final[f'{statut_a_recuperer}'])
 
-    # Affichage de la figure
-    plt.show()
+        # Ajout de la matrice de confusion au fichier texte
+        fichier_resultat.write("\nMatrice de confusion :\n")
+        for row in cm:
+            fichier_resultat.write(" | ".join(map(str, row)) + "\n")
+
+        # Sauvegarde de la figure
+        plt.figure(figsize=(4, 3))
+        sns.heatmap(cm, annot=True, cmap='RdPu', fmt='g', cbar=False)
 
 if __name__ == "__main__":
     main()
