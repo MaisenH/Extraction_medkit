@@ -286,7 +286,7 @@ regexp_rules_tabac = [
     RegexpMatcherRule(regexp=r"nicotine", label="tabagisme"),
 ]
 regexp_rules_alcool = [
-    RegexpMatcherRule(regexp=r"alcool", label="alcool", exclusion_regexp = "acidoalcooloresistant|acido/s*alcoolo|acido-alcoolo|bacille alcoolo acido"), 
+    RegexpMatcherRule(regexp=r"alcool", label="alcool", exclusion_regexp = "acidoalcooloresistant|acido/s*alcoolo|acido-alcoolo|bacille"), 
     RegexpMatcherRule(regexp=r"ethylisme|ethylique|ethylo", label="alcool"),
     RegexpMatcherRule(regexp=r"biere[s]?", label="alcool"),
     RegexpMatcherRule(regexp=r"champagne[s]?", label="alcool"),
