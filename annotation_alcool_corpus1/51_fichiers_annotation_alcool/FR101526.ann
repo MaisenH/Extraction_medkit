@@ -1,0 +1,4 @@
+T1	tabagisme 314 319	tabac
+A1	is_negated T1
+T2	alcool 325 331	alcool
+A2	is_negated T2

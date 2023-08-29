@@ -1,0 +1,6 @@
+T1	alcool 470 476	alcool
+A1	is_negated T1
+A2	other_detected T1
+T2	alcool 481 486	tabac
+A3	is_negated T2
+A4	other_detected T2

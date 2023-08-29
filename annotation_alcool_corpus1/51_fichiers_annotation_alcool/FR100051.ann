@@ -1,0 +1,8 @@
+T1	alcool 690 696	alcool
+A1	is_negated T1
+T2	tabagisme 721 731	cigarettes
+T3	tabagisme 763 772	tabagique
+T4	alcool 2511 2517	alcool
+A2	is_negated T4
+T5	tabagisme 2817 2825	nicotine
+T6	tabagisme 2877 2885	nicotine

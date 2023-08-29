@@ -1,0 +1,7 @@
+T1	alcool 628 633	bière
+A1	other_detected T1
+T2	alcool 640 646	alcool
+A2	other_detected T2
+T3	tabagisme 701 710	tabagisme
+A3	is_negated T3
+A4	other_detected T3

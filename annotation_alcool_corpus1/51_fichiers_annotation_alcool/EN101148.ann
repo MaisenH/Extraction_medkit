@@ -1,0 +1,4 @@
+T1	alcool 1255 1261	alcool
+A1	is_negated T1
+T2	tabagisme 1265 1270	tabac
+A2	is_negated T2

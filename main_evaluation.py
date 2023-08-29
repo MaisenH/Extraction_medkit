@@ -9,6 +9,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 import pandas as pd
+import sys
 
 
 def convert_to_pred_ents(docs):
@@ -171,18 +172,23 @@ def modifier_liste(liste, rule):
 
 def main():
 
+    # python3 main_evaluation.py 51_fichiers_annotation_alcool resultat_1 alcool_df alcool
+    
     # path du fichier contenant annotations brat
-    path= "51_fichiers_annotation_situation" 
-    statut_a_recuperer = path.split("_")[-1] 
+    path =  sys.argv[1] # dossier brat
+    result_name_file = sys.argv[2] # nom du fichier des résultats
+    name_file_csv = sys.argv[3] # nom du fichier csv composé des vrai valeurs de statut pour chaque cas cliniques
+    statut_a_recuperer = sys.argv[4] # tabagisme, alcool, ou situation
+
 
     # On ouvre un fichier pour l'écriture des résultats
-    with open(f'resultat_{statut_a_recuperer}.txt', 'w', encoding='utf-8') as fichier_resultat:
+    with open(f'{result_name_file}.txt', 'w', encoding='utf-8') as fichier_resultat:
         fichier_resultat.write(f"\nEVALUATION DU STATUT {statut_a_recuperer.upper()}\n")
         
         brat_converter = BratInputConverter()
         docs_brat = brat_converter.load(dir_path = path)
 
-        df,docs_medkit = extraction_finale(f"51_fichiers_annotation_{statut_a_recuperer}",option_melange=False)
+        df,docs_medkit = extraction_finale(f"{path}",option_melange=False)
         pred_ents = convert_to_pred_ents(docs_medkit)
 
         # Evaluation au niveau des entités
@@ -216,7 +222,7 @@ def main():
 
         # Evaluation au niveau des statuts finaux
         fichier_resultat.write("\n\nEvaluation au niveau des statuts : \n")
-        df_final = pd.read_csv(f'{statut_a_recuperer}_df.csv')
+        df_final = pd.read_csv(f'{name_file_csv}.csv')
 
         # Calcul de la matrice de confusion
         cm = confusion_matrix(df_final[f'{statut_a_recuperer}_V'], df_final[f'{statut_a_recuperer}'])
