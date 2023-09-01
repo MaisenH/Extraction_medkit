@@ -418,7 +418,7 @@ def extraction_finale(clinical_case_repo, option_melange):
 
     Paramètres:
     - clinical_case_repo : Le chemin ou l'identifiant du dépôt des cas cliniques à traiter.
-    - option_melange : Un indicateur booléen ou un paramètre lié au mélange (fonction exacte pas claire sans plus de contexte).
+    - option_melange : Un indicateur booléen ou un paramètre lié au mélange des fichiers.
 
     Retourne :
     - df : Un DataFrame pandas contenant des informations traitées pour chaque cas clinique.
