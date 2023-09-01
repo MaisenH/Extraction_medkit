@@ -23,7 +23,7 @@ Chaque dossiers comporte 51 fichiers contenant le texte clinique + un fichier an
 * tabagisme_df.csv
 * alcool_df.csv
 * situation_df.csv
-
+CSV contenant les statuts prédit par medkit et les statuts réels que j'ai annoté
 ***Trois fichiers .py***
 
 
