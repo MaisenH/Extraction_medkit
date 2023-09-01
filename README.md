@@ -5,7 +5,11 @@ Il est possible d'extraire trois types d'informations :
 * Le statut alcoolique (alcoolique, non-alcoolique, inconnu)
 * Le statut familial (seul, pas seul, inconnu)
 
-***Trois dossiers comportant des annotations faites à la main (avec brat)***
+***Deux corpus***
+* Corpus 1  = E3C
+* Corpus 2 = CAS
+
+***Trois dossiers comportant des annotations faites à la main (avec brat) sur le corpus 2***
 
 * 51_fichiers_annotation_tabagique
 * 51_fichiers_annotation_alcool
